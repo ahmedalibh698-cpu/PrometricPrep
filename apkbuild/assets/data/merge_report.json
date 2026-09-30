@@ -1,0 +1,54 @@
+{
+ "conflicts": [
+  {
+   "question": "which of the following statements best represents the inter venous (IV)? Medication in the",
+   "formA": [
+    5,
+    "IV drugs transmits the highest risk of infectionn"
+   ],
+   "formB": [
+    2,
+    "IV drugs transmits the highest risk of infection"
+   ],
+   "manual": true
+  },
+  {
+   "question": "Click image to enlarge The structure of norepinephrine-serotonin reuptake inhibitor (NSRI)",
+   "formA": [
+    8,
+    "Demethylation of the side chain tertiary amino group to yield secondary amino group"
+   ],
+   "formB": [
+    5,
+    "demethylation of the side chain tertiary amino group to yield a secondary amino group"
+   ],
+   "manual": true
+  },
+  {
+   "question": "Which of the following can decrease the effect of warfain?",
+   "formA": [
+    7,
+    "multivitamins"
+   ],
+   "formB": [
+    5,
+    "Mutivitamins"
+   ],
+   "manual": true
+  },
+  {
+   "question": "Which of the following statements best describe drug dependence?",
+   "formA": [
+    2,
+    "discontinuation of the drug will produce withdrawal symptoms"
+   ],
+   "formB": [
+    5,
+    "Discontinuation of the drug will produce withdrawl symptoms"
+   ],
+   "manual": true
+  }
+ ],
+ "total_raw": 731,
+ "unique": 627
+}

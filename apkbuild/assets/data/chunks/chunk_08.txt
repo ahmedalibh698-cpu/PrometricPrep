@@ -1,0 +1,515 @@
+Q610. Which of the following is the most practical method for sterilizing ophthalmic solution?
+   A) autoclaving for 15 minutes
+   B) autoclavifig for 30 minutes
+   C) membrane filtration through 0.2-μm filter
+   D) membrane filtration through 5-μm filter
+
+Q611. Click image to enlarge Histamine (pKa=9.4) is endogenous chemical release when allergic reaction happened. As a pharmacist you are responsible to under stand the mechanism and the conformation of this chemical in the blood (see image). Which of the following is the least dominant tautomer of the histamine at the physiological pH?
+   A) a
+   B) b
+   C) C.c
+   D) d
+
+Q612. Which of the following vitamin deficiency can cause scurvy ?
+   A) vitamin A
+   B) vitamin B6
+   C) vitamin C
+   D) Vitamin D
+
+Q613. A 5-year-old girl admitted to the Pediatric Intensive Care Unit (PICU) with severe hypotension. The physician prescribed dopamine infusion at a rate of 5 mcg/kilogram/minute. The child weights 15 kilograms. How many milliliters are needed from an 80 mg/ml dopamine vial to prepare the 24 hour infusion?
+   A) 1 ml
+   B) 1.4 ml
+   C) 2 ml
+   D) 2.5 ml
+
+Q614. Which bio similar drug is approved for the treatment of moderate to severe allergic asthma?
+   A) Infliximab
+   B) Efalizumab
+   C) Omalizumab
+   D) Trastuzumab
+
+Q615. A pharmacy intern is preparing a solution containing 8.4 g of drug from an available stock solution labeled as 20% w/v. Which of the following is the volume he must take from 20% w/v solution?
+   A) 4.2 mL
+   B) 8.4 mL
+   C) 42 mL
+   D) 84 mL
+
+Q616. Which of the following pharmaceutical activities should follow the USP chapter 797 standards?
+   A) Compounding ophthalmic preparations
+   B) Compounding of sterile preparations
+   C) Dispensing of non-hazardous preparation
+   D) Compounding of extemporaneous preparations
+
+Q617. Which of the following is the mechanism by which bisacodyl laxative relieves constipation?
+   A) Causing colon relaxation
+   B) Acting as a surfactant to soften the stool
+   C) Absorbing water and forming a gelatinous mass
+   D) Stimulating enteric nerves to increase colonic contractions
+
+Q618. Which of the following best describes ceftazidime?
+   A) A third generation cephalosporin which covers gram negative and gram positive organisms
+   B) A second generation cephalosporin which covers gram negative and gram positive organisms
+   C) A first generation cephalosporin which covers gram positive organisms
+   D) An amino penicillin
+
+Q619. What is the most common adverse reaction of doxorubicin?
+   A) Bone marrow depression
+   B) Hepatic toxicity
+   C) Cardiac toxicity
+   D) Skin necrosis
+
+Q620. Which of the following situation is most likely to be controlled by administering parenteral calcium as an antidote?
+   A) Hypokalemia
+   B) Verapamil overdose
+   C) Heroine intoxication
+   D) Cocaine intoxication
+
+Q621. Which of the following is a statement that describes a drug with pregnancy category X?
+   A) Animal studies indicate no fetal risk
+   B) No available fetal risk studies in woman or animals
+   C) Positive evidence of fetal risk; benefits outweigh the fetal risks
+   D) Definite fetal risk in animals and humans of teratogenicity; fetal risks outweigh the benefits
+
+Q622. A 55-year-old man presents with an excessive bronchial and oconasal secretions. History revealed, is exposed to an organophosphate insecticide. Which of the following is the best management?
+   A) Atropine IV
+   B) Diphenhydramine orally
+   C) Pralidoxime intramuscularly
+   D) Physostigmine intramuscularly
+
+Q623. Which of the following adverse effects is associated with the use of barbiturates in elderly?
+   A) Ataxia
+   B) Agitation
+   C) Dementia
+   D) Hypotension
+
+Q624. What is the usual shelf life for reconstituted and refrigerated antibiotic suspension?
+   A) A.5 days
+   B) 7 days
+   C) 14 days
+   D) 30 days
+
+Q625. A prescription order asks for compounding dimenhydrinate syrup of strength of 12.5 mg/5 mL. How many 50 mg tablets of dimenhydrinate is needed to prepare a 60 mL of the syrup?
+   A) 1
+   B) 2
+   C) 3
+   D) 6
+
+Q626. Which of the following drugs has both an anti-inflammatory and analgesic activity?
+   A) Codeine
+   B) Pethidine
+   C) Ibuprofen
+   D) Paracetamol
+
+Q627. Which of the following glucocorticoids has the lowest potency?
+   A) Prednisone
+   B) Triamcinolone
+   C) Hydrocortisone
+   D) Dexamethasone
+
+Q628. Which of the following is the mechanism by which probenecid increases the duration of action of ampicillin when administered at the same time?
+   A) Increasing the glomerular filtration
+   B) Increasing the intestinal absorption
+   C) Inhibition of renal tubular secretion
+   D) Inhibition of renal tubular reabsorption
+
+Q629. Click image to enlarge A spot of strychnine and brucine mixture (S+B) has been applied on TLC (Thin Layer Chromatography) plate together with their standards in order to identify each alkaloid. The TLC plate has been developed in jar using chloroform: methanol (9:1) as mobile phase (see image). Which of the following is the retention factor (Rf) for strychnine and brucine, respectively?
+   A) 0.36, 0.42
+   B) 2.76, 2.35
+   C) 3, 2.7
+   D) 6.4, 6.7
+
+Q630. Which of the following mechanism of actions most appropriately describes benzodiazepines?
+   A) Inhibit GABA's actions at the GABA receptor
+   B) Potentiate 5-HT's actions at the 5-HT receptor
+   C) Potentiâte GABA's actions at the GABA receptor
+   D) Potentiate glutamate's actions at the NMDA receptor
+
+Q631. A 50-year-old man on warfarin therapy started drinking an herbal tea extra (one gallon daily). A week later his INR dropped to 1.35 prior to that time, his INR had been in the range of 2.5-3. Once the herbal tea was discontinued, the patient's INR came back up to 2.50. Which of the following is the content of the herbal tea extract?
+   A) Anise
+   B) Ginger
+   C) Green tea
+   D) Chamomile
+
+Q632. A 60-year-old woman is admitted to the hospital for surgery. Colonization of gram negative bacteria occurred after surgery. Which of the following is the best management?
+   A) Cefprozil
+   B) Cephalexin
+   C) Ceftriaxone
+   D) Phenoxymethyl penicillin
+
+Q633. The weekly dose of docetaxel is 40 mg/m2. How milliliters of docetaxel solution, 160 mg/16 ml would a patient measuring 1.5 m2 need every week?
+   A) 4 ml
+   B) 6 ml
+   C) 8 ml
+   D) 10 ml
+
+Q634. A 47-year-old man is admitted to hospital with atrial arhythmia and is prescribed amiodarone. Which of the following is the most likely side effects to be monitored?
+   A) Ptosis
+   B) Tinnitus
+   C) Pulmonary toxicity
+   D) Pseudomembranous enter colitis
+
+Q635. Which of the following is a benefit of using dopamine in the treatment of cardiogenic shock?
+   A) It selectively constricts renal and mesenteric beds
+   B) It increases the force of myocardial contraction
+   C) It lacks of peripheral vasoconstriction effect
+   D) It decreases cardiac output
+
+Q636. Which of the following vitamins is contraindicated in high doses during pregnancy?
+   A) Vitamin A
+   B) Vitamin B6
+   C) Vitamin C
+   D) Vitamin B12
+
+Q637. Which of the following is the mechanism of action of loperamide antidiarrheal effect?
+   A) Binding bile acids
+   B) Blocking of cholinergic receptors
+   C) Activation of the opioid receptors
+   D) Activation of alpha-2 adrenergic receptors
+
+Q638. Which of the following is the source for standards for compounding sterile preparations to be followed in the hospital pharmacy?
+   A) In World Health Organization (WHO) website
+   B) In Food and Drug Administration (FDA) website.
+   C) In United States Pharmacopeia (USP) chapter 797
+   D) In Institute for Safe Medication practices (ISMP) publication
+
+Q639. A 1 milliequivalent of calcium chloride =0.0735 g. How many miliequivalents (Eq) of calcium chloride are there In a 10 ml vail containing 10 % calcium gluconate?
+   A) 1.36 mEq
+   B) 13.6 mEq
+   C) 73.5 mEq
+   D) 136.0 mEq
+
+Q640. Which of the following drugs/substance would exacerbate the poisoning effects of acetaminophen?
+   A) Ethanol
+   B) Cimetidine
+   C) Valproic acid
+   D) Norethindrone
+
+Q641. What is the therapeutic indication for nilotinib?
+   A) Ulcerative colitis
+   B) Familial hyperlipidaemia
+   C) Highly active and relapsing remitting multiple sclerosis
+   D) Philadelphia chromosome positive chronic myelogenous leukaemia
+
+Q642. A patient was admitted to the hospital due to poisoning symptoms after ingesting an unknown herbal remedy from unknown source. The herbal drug has been submitted to the analytical lab for analysis. The laboratory phytochemical screening shows the following results: Which of the following substances is the most likely main content of the unknown herb?
+   A) Quinine
+   B) Digitalis
+   C) Morphine
+   D) Belladona
+
+Q643. A 75-year-old women with congestive heart failure is prescribed digoxin to improve cardiac muscle contractility. She has a marked improvement in her symptoms. What cellular action of digoxin is responsible for its pharmacological action ?
+   A) Inhibition of cAMP synthesis
+   B) Inhibition of Na + /k + ATPase enzyme
+   C) Inhibition of B adrenergic stimulation
+   D) Inhibition of mitochondrial calcium release
+
+Q644. Which of the following vitamin deficiency causes Pellagra disease?
+   A) Niacin
+   B) Biotin
+   C) Riboflavin
+   D) Cyanocobalamin
+
+Q645. In case a patient develops toxicity from midazolam. Which of the following medications can be given as an antidote?
+   A) Atropine
+   B) Flumazenil
+   C) Amifostine
+   D) Acetylcystine
+
+Q646. What is the main advantage of losartan over Lisinopril ?
+   A) Less hyperkalemia
+   B) Safe during pregnancy
+   C) Less induction of cough
+   D) Higher oral bioavailability
+
+Q647. Which of the following is an indication for ciprofloxacin?
+   A) Fever
+   B) Arthropathy
+   C) Tuberculosis
+   D) Inhalational anthrax
+
+Q648. Which of the following drugs has poor oral bioavailability?
+   A) Cefixime
+   B) Amoxicillin
+   C) C.Vancomycin
+   D) Ciprofloxacin
+
+Q649. A 1 milli equivalent (1 mEq) of calcium gluconate = 0.215 g. How many milli equivalents (mEq) per ml of calcium gluconate are there in a 50 ml vial containing 5 g of calcium gluconate?
+   A) 0.465 mEq/ml
+   B) 2.320 mEq/ml
+   C) 23.250 mEq/ml
+   D) 46.500 mEq/ml
+
+Q650. Which dietary supplement can be suggested to overcome jetlag?
+   A) Melatonin
+   B) Echinacea
+   C) Yohimbine
+   D) S-adenosyl-L- mwthionine (SAMe)
+
+Q651. A 10 ml ampule of 0.25 % nicardipine hydrochloride is given to a patient after proper diluted with 5 % dextrose to get the drug concentration of 0.1 mg/ml. How many milliliter of 5 % dextrose should be used ?
+   A) 25
+   B) 100
+   C) 240
+   D) 250
+
+Q652. The diagram shows the role of a vitamin (marked by a starx) as coenzyme for cystathionine synthase and cystathionase enzymes which catalyze the transsulfuration of methionine to cysteine (see image). Which of the following is the vitamin indicated by the star* in the figure?
+   A) B2
+   B) B3
+   C) B5
+   D) B6
+
+Q653. The structure of a norepinephrine-serotonin reuptake inhibitor (NSRI) (see image).Which of the following structural modifications can transform this drug into a Selective Norepinephrine Re-uptake Inhibitor (SNRI) analogue?
+   A) Quaternization of the side chain amino group
+   B) Transformation of the side chain amino group into a primary amine
+   C) Replacement of the side chain N, N-dimethylamino group with a hydroxyl group
+   D) Demethylation of the side chain tertiary amino group to yield secondary amino group
+
+Q654. A 62-year-old patient, otherwise healthy, was brought to the Emergency Department in a confused state after ingesting one green fruit of castor bean two hours ago. He had vomit once at home. He had dryness of mouth and the pupils were bilaterally dilated with sluggish reaction to light. He was treated symptomatically with activated charcoal. Which of the following is the main active constituent responsible for the toxic effect of castor seeds?
+   A) Ricin
+   B) Barbaloin
+   C) Mezerein
+   D) Ergotamine
+
+Q655. A preparation used 0.06 grams of drug X to prepare 120 tablets. Which of the following is the amount of the drug (in micrograms) in each tablet?
+   A) 0.5
+   B) 5
+   C) 50
+   D) 500
+
+Q656. Which of the following is the mechanism of action of anti- inflammatory action of aspirin ?
+   A) Inhibition of nitric oxide synthesis
+   B) Reduction in leukotrienes formation
+   C) Increased synthesis of prostaglandins
+   D) Decreased synthesis of prostaglandins
+
+Q657. Which of the following is a side effect of albuterol?
+   A) Convulsion
+   B) Bradycardia
+   C) Tachycardia
+   D) Hypotension
+
+Q658. A 50 year-old girl weighing 20 kg is brought to the clinic with Lyme disease. The physician prescribed cefuroxime 12.5 mg/ kg twice daily for 14 days. The pharmacist has cefuroxime powder for suspension which after reconstitution with water forms 100 ml suspension with concentration of 125 mg 5 ml. How many bottles would the pharmacist dispense ?
+   A) 1
+   B) 2
+   C) C.3
+   D) D.4
+
+Q659. A child weighing 25 kg is prescribed acetazolamide 2.5 mg/kg every 12 hours. Acetazolamide is available in a liquid dosage form with strength of 25 mg/ ml. How many milliliter would the patient be administered per dose?
+   A) 2.5
+   B) 5.0
+   C) 7.5
+   D) 10
+
+Q660. Which of the following is the amount of a drug (in gm) that is needed to make 150 ml of a solution if each teaspoonful must contain 7.5 mg of the drug?
+   A) 0.225
+   B) 0.75
+   C) 2.25
+   D) 7.50
+
+Q661. which of the following is the reason why magnesium-containing antacids should be avoided in patients with renal failure?
+   A) Increased renal el eased renal elimination of magnesium
+   B) Decreased renal elimination of magnesium
+   C) Increased magnesium absorption in renal failure
+   D) Decreased magnesium absorption in renal failure
+
+Q662. A Young child weight =30 kg) diagnosed with pharyngitis has been prescribed Augmentin suspension (125 mg amoxicillin/31.25 mg clavulanate/ 5 ml) days. to be given as two teaspoons three times daily for five . Which of the following is the minimum suspension volume that should dispense?
+   A) 60 mL
+   B) 90 mL
+   C) 120 ml
+   D) 150 mL
+
+Q663. A 12-year-old boy is brought to the Emergency with complaint of inability to open eyes and difficulty in breathing. History revealedsnake bite Examination shows anxious, tachycardia and tachypnea, Bilateral ptosis no bite mark seen and no swelling of the limb (see lab result) . Test Result 20 Normal Which of the following is the next course of action?
+   A) Keep the patient under observation
+   B) Reassure the patient and send home with anxiolytic
+   C) Give Anti-snake venom (ASV) plus Neostigmine and keep under observation
+   D) O D. Give Anti-snake venom (ASV) and keep under observation
+
+Q664. An experiment on unknown drugs D-1,D-2,D-3 and D-4 shows the following (see lab results ) D-1 → low lipid solubility D-2 → high molecular weight D-3 → low degree of plasma protein binding D-4 → weak acidity Which of the following is most likely to be excreted in breast milk?
+   A) D-1
+   B) D-2
+   C) D-3
+   D) D-4
+
+Q665. A 500 ml intravenous infusion solution was prepared by adding 10 ML of 10 % of anticancer drug to 490 ml of 5 % dextrose.Which of the following is the percentage strength of the drug in the Infusion solution ?
+   A) A.0.2 %
+   B) 0.4 %
+   C) 0.5 %
+   D) 1.0 %
+
+Q666. Which of the following is a therapeutic use of lorazepam?
+   A) Antihistamine
+   B) Analgesic
+   C) Hypnotic
+   D) Diuretic
+
+Q667. A25 ml solution contains 5 grams of the drug . Which of the following is the drug concentration in mg/ml in the solution ?
+   A) 50 mg/ml
+   B) 100 mg/ml
+   C) 200 mg/ml
+   D) 400 mg /ml
+
+Q668. Which of the following is the drug of choice for chlamydia infection?
+   A) Amikacin
+   B) Amoxicillin
+   C) Tetracycline
+   D) Azithromycin
+
+Q669. Which of the following could be stored in a freezing unit ?
+   A) Insulin
+   B) Interferon
+   C) varicella vaccine
+   D) Human growth hormone
+
+Q670. A 75-year-old man with NYHA-IV heart failure has been started on furosemide 120 mg intravenous infusion to improve pulmonary edema. Which of the following is the recommended duration time for furosemide infusion?
+   A) 10 minutes
+   B) 20 minutes
+   C) 30 minutes
+   D) 40 minutes
+
+Q671. A 1000-mg dose of a drug was given intravenously to a 25-year-old male patient weighing 60 Kg. the initial plasma concentration of the drug was found to be 10 mg/L, and the elimination rate constant was 0.1 h. Assuming linear kinetics, what would be the total body clearance?
+   A) A.10 litres/hour
+   B) B.100 liters/hour
+   C) 150 liters/ hour
+   D) 250 litres/hour
+
+Q672. Which of the following exhibits highest anti-inflammatory Potency?
+   A) prednisone
+   B) triamcinolone
+   C) hydrocortisone
+   D) D.betamethasone
+
+Q673. Which of the following is a selective α1 blocker?
+   A) labetolol
+   B) terazosin
+   C) clonidine
+   D) captopril
+
+Q674. Which property of nicotine is attributed to abortions?
+   A) it is a vasodilator
+   B) it is a potent vasoconstrictor
+   C) it reduces uterine blood flow
+   D) it reduces vascular uterine resistance
+
+Q675. Which of the following describes the mechanism of action of rivastigmine?
+   A) A.cholinesterase inhibitor
+   B) alpha-a receptor inhibitor
+   C) serotonin reuptake inhibitor
+   D) angiotensin converting enzyme inhibitor
+
+Q676. A lactating mother comes to the emergency department complaining of nausea and vomiting. Which of the following agents is most appropriate to give?
+   A) cyclizine
+   B) B.domperidone
+   C) dimenhydrinate
+   D) levomeprimazine
+
+Q677. Click image to enlarge D-Galactose and D-Mannose are monosaccharide sugar. They have the same number of carbons and the same functional group, but they differ in their configurations. This reflects their pharmacoceutical uses (see image) Which of the following types of stereo-isomerization do these sugars represent?
+   A) isomers
+   B) epimers
+   C) anomers
+   D) diasteromers
+
+Q678. Which of the following is most likely to be associated with heartburn?
+   A) paracetamol
+   B) chlorpheniramine
+   C) potassium chloride
+   D) magnesium/aluminium hydroxide
+
+Q679. A 70-year-old man has been prescribed several medications by the physician, which are eliminated by kidney. His body is 80 Kg and serum creatinine is 0.194 mmol/I (2.2 mg/dl).Which of the following equation is most appropriate to calculate his creatinine clearance?
+   A) Schwartz
+   B) Shull et al
+   C) Counahan-Barratt
+   D) Cochroft and Gault
+
+Q680. Which of the following ranges of volume of distribution is deduced for warfarin (anticoagulant) that is 98% bound to proteins?
+   A) 3-51
+   B) 40-50 l
+   C) 50-500 l
+   D) 5000-10000 l
+
+Q681. Which one of the following side effects is associated with bisphosphates use?
+   A) headache
+   B) blurred vision
+   C) hypotension
+   D) osteonecrosis of the jaw
+
+Q682. Which of the following is the therapeutic indication for methylphenidate?
+   A) eczema
+   B) insomnia
+   C) anorexia nervousa
+   D) attention deficit disorder in children
+
+Q683. Click image to enlarge A water soluble vitamin catalyzes the carboxylation of acetyl-COA to form malonyl-CoA, which is required for the synthesis of fatty acids (see image) Which of the following vitamins plays this role?
+   A) biotin (b7)
+   B) riboflavin
+   C) pyridoxine
+   D) nicotinamide
+
+Q684. Which of the following is an indication for the use of streptokinase?
+   A) tuberculosis
+   B) neoplastic disorders
+   C) myocardial infarction
+   D) D.impaired fat absorption
+
+Q685. A colleague of yours asked you to identify the content of green leaves herbal supplemeny, he's been using for the past two weeks (as tea drink) to help him lose weight and boost his energy. He mentioned that he is starting to have the following symptoms: tremors, palpitation and lack of sleep (insomnia). You prepared aqueous and organic solutions from the leaves and performed phytochemical screening tests to identify the plant (see label result) Which of the following is the most likely active ingredient in the above plant?
+   A) A.alkaloid
+   B) saponin
+   C) reducing sugar
+   D) cardiac glycoside
+
+Q686. Acetaminophen is an antipyretic and an analgesic drug. It binds to a cytosolic protein (see image). Which of the following types of bonds is formed between the protonated amine of the acetaminophen and the cytosolic acid of the aspartate residue of the protein?
+   A) ionic bond
+   B) B.covalent bond
+   C) hydrogen bond
+   D) D.VAN_der walls interaction
+
+Q687. The ionization of the drug is very important to understand the pharmacodynamic of the drug.Which of the following forms are absorbed from the stomach?
+   A) A.polar-ionized
+   B) polar-unionized
+   C) non polar ionized
+   D) non polar-unionized
+
+Q688. Which of the following toxins can be used therapeutically?
+   A) aflatoxin
+   B) saxitoxin
+   C) α-bungarotoxin
+   D) botulinum toxin
+
+Q689. A 60-year-old man presents with profound hypotension and tachycardia. He has been on nifedipine for hypertension and accidently took the over dose of it. Which of the following is the most appropriate management?
+   A) normal saline
+   B) insulin-dextrose
+   C) calcium gluconate
+   D) potassium chloride
+
+Q690. An order for amoxicillin 500 mg three times daily for 7 days is prescribed. The pharmacy only stocks amoxicillin 250 mg capsules. Which of the following is the number of capsules the pharmacist should dispense?
+   A) 21
+   B) B.42
+   C) 64
+   D) 80
+
+Q691. A 6-year-old boy is brought with complaint of uncontrollable spasm-like movements and excessive eye blinking for four months. Chronic motor disorder was diagnosed.Which of the following is the best management?
+   A) pregabalin
+   B) B.haloperidol
+   C) C.methadone
+   D) chlorzoxazone
+
+Q692. A physician prescribed heparin at a dose of 75 units/Kg every six hours for a child weighing 15 kg, heparin is available in 2.5 ml vial containing 12,500 units. How many mililiters of heparin solution would be administered every day?
+   A) A.0.5
+   B) B.0.9
+   C) 1.5
+   D) 1.8
+
+Q693. A 2-year-old boy was found with an empty bottle of 100 chewable multivitamins. Each tablet contained 18 mg iron. He is asymptomatic at time of presentation to the emergency department. Which of the following methods of gastrointestinal decontamination would be most appropriate?
+   A) gastric lavage
+   B) activated charcoal
+   C) whole bowel irrigation
+   D) multi-dose activated charcoal
+
+Q694. Which of the following is the exact date for a drug to be safety taken if its expiration date December 2018?
+   A) December 1,2018
+   B) December 15, 2018
+   C) C.December 31, 2018
+   D) January 1st , 2019
+
+Q695. Which of the following capsules sizes has the largest size suitable for human patient?
+   A) no. 0
+   B) no. 1
+   C) no. 5
+   D) no. 000

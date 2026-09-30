@@ -1,0 +1,521 @@
+Q436. Carbamazepine (pKa=13.2) is an antiepileptic drug used in the treatment of status epilepticus. This condition requires fast intervention with carbamazepine injection. Which of the following is most likely to describe what will happen if carbamazepine was given orally?
+   A) Fast intervention because the drug will be ionized in the stomach
+   B) Slow intervention because the drug will be ionized in the stomach
+   C) Fast intervention because the drug will be unionized in the stomach
+   D) Slow intervention because the drug will be unionized in the stomach
+
+Q437. A 27-year-old man presents with complaints of excessive checking and cleaning habits since childhood Obsessive compulsive disorder is diagnosed Which of the following is the most appropriate management?
+   A) Phentermine
+   B) Clomipramine
+   C) Levetiracetam
+   D) Methylphenidate
+
+Q438. Which of the following is an indication for the use of indapamide?
+   A) Angina pectoris
+   B) Cardiac dysrhythmias
+   C) Essential hypertension
+   D) Acute myocardial infarction
+
+Q439. If a pharmacist has a stock solution of D5W and D50W How many milliliters form each solution will need in order to prepare a 450 ml of D15W solution?
+   A) D50w/ D5w=100/350
+   B) D50w/D5w=350/100
+   C) D50w/D5W=200/250
+   D) D50w/D5w= 250/200
+
+Q440. Which of the following does mechanisms Carbidopa act as an anti-parkinsonian agent?
+   A) Blocking dopamine receptors
+   B) Activating serotonin reuptake
+   C) Binding to alpha-7 nicotinic acetylcholine receptors
+   D) Decreasing the decarboxylation of levodopa in peripheral tissues
+
+Q441. Which of the following is the therapeutic use of the dietary supplement Valerian?
+   A) Improve urinary flow
+   B) Reduce severity of a cold or virus infection
+   C) Improve memory
+   D) Mild sedative
+
+Q442. Which of the following type of water should be used for reconstitution of parenteral preparations?
+   A) Sterile water
+   B) Distilled water
+   C) Sterile water for injection
+   D) Bacteriostatic water for injection
+
+Q443. Which of the following drugs is contraindicated in pregnancy due to teratogenicity?
+   A) Cimetidine
+   B) Finasteride
+   C) Methyldopa
+   D) Metoclopramide
+
+Q444. Which of the following best describe the main pharmacological property of cholestyramine?
+   A) Decreases excretion of cholesterol
+   B) Lowers high density lipoprotein (HDL) level
+   C) Increases low density lipoprotein (LDL) level
+   D) Increase the efficiency of lipoprotein removal
+
+Q445. How much of 5% w/v solution would be required to prepare 60 ml of 5mg/ml solution?
+   A) 6 ml
+   B) 10 ml
+   C) 15 ml
+   D) 18 ml
+
+Q446. The pharmacy receives a prescription for labetalol 800 mg twice daily for three days. The available strength of labetalol in the pharmacy is 200 mg. Which of the following is the number of 200 mg labetalol tablet needed to prepare the above prescriptions for the total duration?
+   A) 8
+   B) 12
+   C) 16
+   D) 24
+
+Q447. Which of the following drugs is associated with progressive multifocal leukoencephalopathy side effect?
+   A) A.Bisoprolol
+   B) B.Pregabalin
+   C) Doxycycline
+   D) Natalizumab
+
+Q448. Which of the following calcium channel blockers is a non- dihydropyridine drug?
+   A) Nicardipine
+   B) Amlodipine
+   C) Nifedipine
+   D) Diltiazem
+
+Q449. A drug vial contains 0.2% of drug x. Which of the following is the amount of the drug x (in mg) in a 5ml dose?
+   A) 0.1
+   B) 1
+   C) 10
+   D) 100
+
+Q450. A suspended agent is important for preparing an oral suspension. Which of the following is the characteristic of this suspending agent?
+   A) Hydrophilic, to inhibit agglomeration
+   B) Hydrophobic, to inhibit agglomeration
+   C) Hydrophilic, to prolong gastric emptying time
+   D) Hydrophobic, to prolong gastric emptying time
+
+Q451. A lactating mother comes to emergency department complaining of nausea and vomiting. Which of the following agents is most appropriate to give?
+   A) Cyclizine
+   B) Domperidone
+   C) Dimenhydrinate
+   D) Levomepromazine
+
+Q452. Which of the following herbal medicines may cause oral carcinoma if chewed daily?
+   A) Areca nut
+   B) Clove buds
+   C) Mentha leaf
+   D) Saffron flower
+
+Q453. A dose of 500 mg of a drug is administrated to a patient, and the concentration results at the indicated times are shown (see table) Which of the following is the half-life of the drug?
+   A) A.2 hour
+   B) 3 hours
+   C) 4 hours
+   D) 6 hours
+
+Q454. Which of the following drugs is a pregnancy category X?
+   A) Rituximab
+   B) Leflunomide
+   C) Ciprofloxacin
+   D) Levothyroxine
+
+Q455. A patient is to receive 25 mg of dextromethorphan four times daily for cough. The pharmacist dispensed two 125 ml bottles containing 10 mg of dextromethorphan per 5 ml. How many days will the two bottles last?
+   A) 3
+   B) 5
+   C) 7
+   D) 9
+
+Q456. What is the clinical use for acetylcysteine?
+   A) Cough suppressant
+   B) Hemostatic
+   C) Mucolytic
+   D) Laxative
+
+Q457. A hospitalized patient with hypertension is prescribed nicardipine hydrochloride intravenous infusion at a dose of 5 mg per hour for four hours. Nicardipine hydrochloride is available as a 10 ml vial containing 25 mg of nicardipine hydrochloride. How many milliliters of nicardipine should be used?
+   A) 2.5
+   B) 4.0
+   C) 8.0
+   D) 10.0
+
+Q458. Which of the following drugs when given with verapamil can result in a major drug interaction?
+   A) Digoxin
+   B) Sulindac
+   C) Naproxen
+   D) Piroxicam
+
+Q459. A 100 mL infusion bottle contains 2 g of potassium chloride (KCI). (Mol.wt.kcl= 74.6). Which of the following is the most likely amount of KCL present in the infusion bottle?
+   A) 12.7 mEq
+   B) 20 mEq
+   C) 26.8 mEq
+   D) 78.5 mEg
+
+Q460. A 65-year patient suffered from Osteomalacia with finger numbness, tingling and burning of extremities. The doctor prescribed vitamin D and an IV calcium supplement. Which of the following calcium salts did the physician most likely prescribed ?
+   A) Calcium citrate
+   B) Calcium lactate
+   C) Calciumgluconate
+   D) Calcium phosphate
+
+Q461. Which of the following herbal products can potentiate the effects of oral antidiabetic?
+   A) Garlic
+   B) Ginseng
+   C) Green tea
+   D) Echinacea
+
+Q462. Which of the following is the advantage of using intravenous anaesthetic drug?
+   A) Produce fast onset of anaesthesia
+   B) Helps in maintaining anaesthesia
+   C) Increases the minimum alveolar concentration (MAC) of the anaesthetic drugs
+   D) Produce less cardiovascular and respiratory suppression
+
+Q463. Which of the following is the most likely mechanism of carbon monoxide poisoning?
+   A) Inhibits the gag reflex
+   B) Paralyzes the muscles of the diaphragm
+   C) Decreases the oxygen-carrying capacity of the blood
+   D) Reacts with amino acids in the body to form ammonia
+
+Q464. Which detoxification pathway is active paracetamol toxicity?
+   A) Oxidation
+   B) Reduction
+   C) Conjugation with glucuronide
+   D) CYP-450 dependent glutathione
+
+Q465. Heparin is prepared in a piggy-bag which contains 25,000 units in 250 ml. How many milliliters of heparin per hour must be given to a 70 kilogram male patient if infusion rate is 10 units\kg\hour?
+   A) 5 ml
+   B) B.7 ml
+   C) 10 ml
+   D) 20 ml
+
+Q466. Sterile preparation is a very complex manufacturing procedure that requires attention to the ingredients added in it. Which of the following ingredients can be added when preparing a sterile drug?
+   A) Antioxidants
+   B) 2% Benzyl alcohol
+   C) Bactericidal agents
+   D) 1.9% Sodium Chloride
+
+Q467. What is the weight of 60 ml olive oil (density: 0.92 g\ml)?
+   A) 36.66 gm
+   B) 49.60 gm
+   C) 55.20 gm
+   D) 65.86 gm
+
+Q468. What is the route of administration of Enoxaparin?
+   A) Intrathecal bolus
+   B) Transdermal injection
+   C) Subcutaneous injection
+   D) Intramuscular injection
+
+Q469. How many grams of water are needed to make 100grams of 5% (W\W) solution of potassium acetate?
+   A) 57 g
+   B) 95 g
+   C) 115 g
+   D) 140 g
+
+Q470. Which of the following drugs require extra precautions during handing to ensure medication safety?
+   A) Methotrexate
+   B) Potassium
+   C) Dopamine
+   D) Thiamine
+
+Q471. A 500-mg dose of aspirin was given intravenously to a patient produced an initial plasma concentration of 100 mg\L. If the half life of the drug is 6.93 hours, what would be the total body clearance?
+   A) 50 Liters\ hour
+   B) 10 Liters\hour
+   C) C.5 Liters\hour
+   D) 0.5 Liters\hour
+
+Q472. A 61-year-old was recently diagnosed with parkinson’s disease He was prescribed an anti-parkinson medication. Later, he was presented to the clinic with mydriasis and narrow angle glaucoma. Which of the following medication was prescribed?
+   A) Amantadine
+   B) Bromocriptine
+   C) C Trihexyphenidyl
+   D) D.Levodopa (L-DOPA)
+
+Q473. A patient is prescribed 0.25% alcaftadine ophthalmic solution, one drop for each eye per day. Alcaftadine is available in a 3 ml bottle and one ml contains 14 drops. How many days will the bottle last?
+   A) 6
+   B) 13
+   C) 17
+   D) 21
+
+Q474. A 62-year-old woman is noted to have open-angle glaucoma. She accidentally applies excessive pilocarpine to her eyes. Which of the following is the most likely would be the expected results?
+   A) Mydriasis
+   B) Dilation of blood vessels
+   C) Bronchial smooth muscle dilation
+   D) Decreased gastrointestinal motility
+
+Q475. A 500 infusion bottle contains 11.72 g of potassiumchloride (kCI). The molecular weight of KCI= 74.6 grams. Which of the following is the amount of KCI, in millequivalent (mEq), present in the bottle?
+   A) 0.637 mEq
+   B) 6.37 mEq
+   C) C.11.72mEq
+   D) D.157.1 mEq
+
+Q476. Which of the following solutions is required for the reconstitution of parenteral formulations?
+   A) USP standard sterile water
+   B) USP standard purified water
+   C) USP standard highly purified water
+   D) USP standard sterile water for injection
+
+Q477. Which of the following polymorphic enzyme is responsible for the conversion of codeine to morphine?
+   A) CYP2D6
+   B) CYP2C9
+   C) CCR5 corecptor
+   D) N-Acetyltransferase
+
+Q478. Which of the following best describes prednisone pharmacological activity?
+   A) A uricosuric agent
+   B) An anesthetic agent
+   C) An antipyretic agent
+   D) An anti-inflammatory agent
+
+Q479. Structures of four antidepressant drugs (see image) Which of the following antidepressant structure undergoes a photo- oxidation reaction upon exposure to the light
+   A) 1
+   B) 2
+   C) C.3
+   D) 4
+
+Q480. The chemical structure of four non-steroidal anti- 39- inflammatory agents (NSAIDs) (see image). Which of the following NSAIDs has minimal possible gastric side effects?
+   A) 1 (ibuprofen)
+   B) 2 (celecoxib) selective cox-2
+   C) 3 (indomethacin)
+   D) 4 (diclofenac)
+
+Q481. Which of the following receptors is the main site of action for salbutamol to produce its pharmacological activity in asthma?
+   A) Beta 1 agonist
+   B) Beta 2 agonist
+   C) Alpha 2 agonist
+   D) Alpha 2 antagonist
+
+Q482. Which of the following effects is considered an adverse drug reaction related to extension of drug's pharmacological action?
+   A) Hypotension with nifedipine
+   B) Hepatic necrosis with acetaminophen
+   C) Dry mouth with tricyclic antidepressants
+   D) Interstital nephritis secondary to penicillin
+
+Q483. A 65-year-old man (weight=70 kg) with acute decompensated heart failure is to be started on dobutamine 5 mcg\kg\ minute . The infusion bag contains dobutamine 150 mg in 100 ml of 0.9% sodium chloride. He has normal renal function. Which of the following is the rate of infusion of dobutamine?
+   A) 0.25 mL\hour
+   B) 1.3 mL\hour
+   C) 14 mL\hour
+   D) 26 mL\hour
+
+Q484. What dose linear pharmacokinetics mean?
+   A) The clearance of the drug is not changing when dose increases
+   B) The plasms concentration versus time curve is a straight line
+   C) The half-life of the drug is equal to its volume of distribution
+   D) The drug levels in the body are in steady state
+
+Q485. A 6-year-old HIV infected boy measuring o.9 m2 is to receive nevirapine 140 mg\m2 two times daily. Nevirapine is available as 50 mg\5 ml suspension. How many milliliters of nevirapine suspension would be administered per dose?
+   A) 6.3
+   B) 12.6
+   C) 14.0
+   D) 16.5
+
+Q486. A patient is to receive 750 ml 5% dextrose over five hours. The intravenous infusion set delivers 10 drops\ ml. Which of the following is the flow rate in ml\min to deliver the prescribed volume ?
+   A) 1.5
+   B) 2.0
+   C) 2.5
+   D) 3.0
+
+Q487. Which of the following is the site of action for aflibercept?
+   A) Fibroblast growth factor
+   B) Human chorionic gonadotropin
+   C) Brain-derived neurotrophic factor
+   D) Vascular endothelial growth factor-A
+
+Q488. Which of the following medications is an osmotic diuretic?
+   A) mannitol
+   B) furosemide
+   C) spironolactone
+   D) hydrochlorothiazide
+
+Q489. Which of the following is the pharmacological property of atenolol?
+   A) nonselective beta-blocker
+   B) cardioselective beta 1-blocker
+   C) cardioselective beta 2-blocker
+   D) cardioselective beta 1-agonist
+
+Q490. A pharmacist calculates a dose of 500 μg/min for continuous infusion of dopamine based on weight of the patient. The concentration of a premixed dopamine infusion is 400 mg/250 ml. What is the most likely amount of dopamine in ml received by the patient in the first hour of treatment?
+   A) 10 ml
+   B) 19 ml
+   C) 24 ml
+   D) 28 ml
+
+Q491. A 21-year-old patient went through respiratory depression after receiving anesthetic agent. Which of the following agents will counteract post-anesthetic respiratory depression?
+   A) morphine
+   B) picrotoxin
+   C) diazepam
+   D) thiopental
+
+Q492. What is the pharmacological property of cardiac glycosides?
+   A) alpha 1 blocker
+   B) potent bronchodilator
+   C) positive inotropic effect
+   D) negative inotropic effect
+
+Q493. Which of the following is the basis of the biopharmaceutics classification system of drugs?
+   A) permeability and solubility
+   B) solubility and molecular weight
+   C) solubility and partition coefficient
+   D) permeability and molecular weight
+
+Q494. Which of the following is the active metabolite of primidone?
+   A) phenytoin
+   B) dopamine
+   C) phenobarbital
+   D) methsuximide
+
+Q495. A 45-year-old woman was prescribed a sedative for anxiety to be taken at night. Three days later, she presented complaining of drowsiness, dysphoria and motor depression every morning.Which of the following medications was most likely prescribed?
+   A) zolpidem
+   B) diazepam
+   C) ramelteon
+   D) midazolam
+
+Q496. Which of the following is the reason of using verapamil as an antiarrhythmic drug?
+   A) it suppresses phase four depolarization
+   B) it stimulates the break down of adrenaline
+   C) it inhibits slow inward current of phase two of action potential
+   D) it increases the excitability of pyramidal neurons in the amygdala
+
+Q497. Which of the following statements best describe oxytocin?
+   A) high doses may lead to hypertension
+   B) steady state is reached within 5 to 10 minutes
+   C) C.uterine hyperstimulation is an associated adverse effect
+   D) higher doses can lead to vasopressin receptor related urinary retention
+
+Q498. A drug was given to a patient with a constant intravenous infusion rate of 10 mg/hour. The half-life of the drug is three hours. Which of the following is the time in hours to reach steady state plasma concentration?
+   A) 10
+   B) 15
+   C) 20
+   D) 30
+
+Q499. Which of the following medications is used to treat Alzheimer's disease?
+   A) donepezil
+   B) amantadine
+   C) trihexyphenidyl
+   D) carbidopa-levodopa
+
+Q500. Which of the following regimen is the treatment of choice for a patient who develops a gastric ulcer cause by Helicobacter pylori infection?
+   A) famotidine and amoxicillin
+   B) lansoprazole and clarithromycin
+   C) misoprostol, clarithromycin, amoxicillin
+   D) clarithromycin, amoxicillin and lansoprazole
+
+Q501. Which of the following conditions is treated with desmopressin?
+   A) psoriasis
+   B) endometriosis
+   C) nocturnal enuresis
+   D) attention deficit disorder
+
+Q502. A syrup is 70% w/v solution of sucrose in water. How much of sucrose is required to prepare 500 ml of this syrup?
+   A) 250 g
+   B) 300 g
+   C) 350 g
+   D) 400 g
+
+Q503. Which one of the following medications is known to be a powerful enzyme inducer?
+   A) warfarin
+   B) rifampicin
+   C) itraconazole
+   D) metronidazole
+
+Q504. Which of the following techniques will hinder tablet dissolution?
+   A) adding surfactant agent
+   B) use of drugs crystalline state
+   C) micronization of drug powder
+   D) increasing tablet compression
+
+Q505. Lidocaine is commonly administered for patient exhibiting cardiac arrhythmias. Lidocaine pharmacokinetic parameters are as follows half- life = 2 hours, clearance = 9 mL/min/kg and volume of distribution = 70 L. Which of the following is the time (in hours) needed to achieve 87.5% of the steady state concentration in a 70-kg individual?
+   A) 2
+   B) 4
+   C) 6
+   D) 8
+
+Q506. Which of the following is the mechanism by which Phenobarbital can decrease the therapeutic efficacy of tricyclic antidepressants when administered at the same time?
+   A) increasing the excretion of tricyclic antidepressants
+   B) decreasing the excretion of tricyclic antidepressants
+   C) decreasing the metabolism of the drug by induction of microsomal enzymes
+   D) increasing the metabolism of the drug by induction of microsomal enzymes
+
+Q507. Special techniques are required during compounding of emulsion. Which of the following techniques is used for compounding of emulsion?
+   A) dry gum
+   B) fusion mold
+   C) compression
+   D) heat technique
+
+Q508. Which of the following drugs would decrease the amount of minimum alveolar concentration (MAC) for an anesthetic drug?
+   A) diazepam
+   B) buspirone
+   C) ephedrine
+   D) loratadine
+
+Q509. A 9-year-old child weighing 36 kg came to the clinic with chickenpox. The physician prescribed acyclovir at a dose of 20 mg/kg four times a day for five days. Acyclovir is available as 200 mg/5ml oral suspension. How many milliliters of suspension should be dispensed?
+   A) 240
+   B) 320
+   C) C.360
+   D) 540
+
+Q510. How many grams of dextrose are in a 250 ml bag of 10% dextrose?
+   A) 12.5
+   B) 25
+   C) 50
+   D) 100
+
+Q511. Which of the following food supplement is rich in omega3 fatty acids?
+   A) fish oil
+   B) palm oil
+   C) peanut oil
+   D) coconut oil
+
+Q512. A water sample contains 9 ppm of magnesium. Which of the following is the percentage of magnesium in this sample?
+   A) 0.9%
+   B) 0.09%
+   C) 0.009%
+   D) 0.0009%
+
+Q513. Which of the following anesthetics drugs has a higher risk of causing anemia?
+   A) propofol
+   B) ketamine
+   C) isoflurane
+   D) nitrous oxide
+
+Q514. Results data from a bioavailability study of four different dosage forms of an antibiotic drug is shown (see table). The volunteers fasted for 12 hours prior to taking the drug products. Urine samples were collected up to 72 hours after the administration of the drug to obtain the maximum urinary drug excretion. Which of the following is the absolute bioavailability of the tablet dosage form?
+   A) 80%
+   B) 85%
+   C) 90%
+   D) 95%
+
+Q515. A 3-year-old boy presents with diarrhea. His weight is 13 Kilograms. Which of the following is the most appropriate maintenance fluid requirement for this patient?
+   A) 1000 ml
+   B) 1050 ml
+   C) 1150 ml
+   D) 1250 ml
+
+Q516. Which of the following is another name for a true solution?
+   A) Heterogeneous mixture
+   B) homogeneous mixture
+   C) suspension
+   D) colloid
+
+Q517. Which of the following receptors is the target for morphine action?
+   A) glutamate receptor
+   B) interleukin-2 receptor
+   C) mu (μ)opioid receptor
+   D) acetylcholine receptor
+
+Q518. Which of the following is a pharmacological action of dopamine?
+   A) elevation of blood pressure
+   B) paralysis of skeletal muscle
+   C) stimulation of gastric secretion
+   D) activation of cardiac contraction
+
+Q519. Which of the following is alternative name for vitamin B6?
+   A) biotin
+   B) thiamine
+   C) pyridoxine
+   D) cyanocobalamin
+
+Q520. Which of the following is the expected bioavailability (F) of drugs given by intravenous route?
+   A) less than 25%
+   B) 25%-50%
+   C) 75% -100%
+   D) 100%
+
+Q521. Which of the following is the calculation of the apparent volume of distribution if the patient received 400 mg of intravenous medication that produced immediate blood concentration of 10 microgram/ml?
+   A) 0.025 L
+   B) 0.4 L
+   C) 25 L
+   D) 40 L
+
+Q522. A patient presents a prescription with the following antiviral regimen. Start with 50 mg then decrease by 10 mg every 2 days until finished.Which of the following quantities of 5 mg tablets is needed to fill this prescrintion?
+   A) 20
+   B) 30
+   C) 40
+   D) 60

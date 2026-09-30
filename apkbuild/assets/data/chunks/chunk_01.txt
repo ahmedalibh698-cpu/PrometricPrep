@@ -1,0 +1,520 @@
+Q1. Price of product was increased from 100 SA Riyals to 105 SA Riyals. This resulted in a large decline on demand from 120 to 80 Which of the following types of demand does this product follow ?
+   A) A)Elastic
+   B) B)Latent
+   C) C)Inelastic
+   D) D)Unaffected
+
+Q2. Which of following play a role in calcium homeostasis ?
+   A) A)1,25-dihydrocycholecalciferol and calcitonin
+   B) B)1,25-dihydrocycholecalciferol and insulin
+   C) C)Parathyroid hormone and glucagon
+   D) D)Insulin and lipase
+
+Q3. - Which of following studies are more susceptible to recall bias?
+   A) A)Retrospective cohort
+   B) Prospective cohort study
+   C) C)Randomized controlled trial
+   D) D)Non-randomized controlled trial
+
+Q4. Which of the following micro-organisms causes typhoid fever ?
+   A) Shigella
+   B) Flavivirus
+   C) Salmonella
+   D) Treponema pallidum
+
+Q5. Which of the following have means that individuals have the capacity to understand basic health information to make appropriate health decisions ?
+   A) A)Health literacy
+   B) B)Cultural competency
+   C) C)Communication skills
+   D) D)Professional communication
+
+Q6. Which of the following is an inhibitory neurotransmitter ?
+   A) A)Aspartate
+   B) B)Sertonin
+   C) C)Glutamate
+   D) D)Gama aminobutyric acid (GABA)
+
+Q7. Which of the following pharmacoeconomic studies is the simplest because the outcomes are assumed to be equivalent and only the costs of intervention are compared ?
+   A) Cost-utility analysis
+   B) B)Cost-benefit analysis
+   C) Cost-minimization analysis
+
+Q8. The effects of four anti-hypertensive drug classes (A-D) on the Renin-angiotensin system are shown (see table) Which class is represented by the drug -C?
+   A) Diuretics
+   B) Direct Renin inhibitors
+   C) Angiotensin II receptor blockers
+   D) Angiotensin converting enzyme inhibitor
+
+Q9. Which of the following is the main feature of celiac disease?
+   A) A)Malabsorption of proteins
+   B) B)Increased protein degradation
+   C) C)Decreased excretion of proteins
+   D) D)Decreased breakdown of protein
+
+Q10. - Which of the following scenarios is considered a violation of the ethics ?
+   A) Submitting a research approval extension request to institutional review board after failling to finish the project within the approved period
+   B) Distributing questionnaires to patients waiting in emergency collect information about their health status without a consent page
+   C) Calling patients to collect information after telling them about the project and getting their agreements
+   D) Drawing blood samples after getting the approval from institutional review board
+
+Q11. Which of the following communication techniques is the most appropriate at the message you want to deliver to a patient (or healthcare provider) is received correctly ?
+   A) A)Feedback
+   B) B)Direct contact
+   C) C)High voice tone
+   D) D)Non-verbal communication
+
+Q12. Which of the following drugs found under the narcotic classification ?
+   A) A)Fentanyl
+   B) B)Midazolam
+   C) C)Loprazolam
+   D) D)Pentobarbital
+
+Q13. Which of the following strategies are used with low literacy patients to Encourage them to change their behavior ?
+   A) A)Keep information focused and organized
+   B) B)Use a normal speaking tone and volume
+   C) C)Use briefer educational sessions
+   D) D)Use more visual aids
+
+Q14. Which of the following is the disadventage of conducting randomized controlled trial ?
+   A) A)Expensive
+   B) B)High possibility of bias
+   C) C)Difficult to control confounders
+   D) D)Cannot be used for hypothesis testing
+
+Q15. Which of the following is the most appropriate source for information on compounding medications ?
+   A) A)Micromedex
+   B) B)Orange book
+   C) C)A drug information website
+   D) D)United states pharmacopeis (USP)
+
+Q16. Which of the following measurements is used to assess patient adherence ?
+   A) A)Drug Utillization reviews
+   B) B)Medication Event System
+   C) C)Medication Possession Ratio
+   D) D)Medication therapy management
+
+Q17. Approximately 415 million people have been diagnosis with diabetes Which of the following terms is referred to in the mentioned statement ?
+   A) A)Endemic
+   B) B)Epidemic
+   C) C)Incidence
+   D) D)Prevalence
+
+Q18. Which of the following immunoglobulin (Ig) is frequently found to be elevated in asthmatic patients ?
+   A) A)IgA
+   B) B)IgE
+   C) C)IgM
+   D) D)IgD
+
+Q19. Who is responsible to promote the health in Saudi Arabia?
+   A) A)Saudi Food and Drug Authority (SFDA)
+   B) B)Ministry of Education (MOE)
+   C) C)Ministry of Health (MOH)
+   D) D)Health Colleges
+
+Q20. Which of the following is the type of studies considers data from multiple studies of different designs to draw conclusions ?
+   A) A)Case Series
+   B) B)Double-blind study
+   C) C)Systematic review
+   D) D)Consensus statement
+
+Q21. A 25-years-old male is admitted due to hypersensitivity reaction to some drug ingestion four hours ago. Patient is given a drug which causes dilation of vessels in muscle ,constriction of cutaneous vessels ,and positive inotropic and chronotropic effects on the heart Which of the following is the most likely drug given?
+   A) A)Adrenaline
+   B) B)Isoproterenol
+   C) C)Acetylcholine
+   D) D)Metaproterenol
+
+Q22. From the following data of the highest in cm of 11 pediatric patients : 103, 107 ,110 ,124 ,129, 131 ,136 ,140 ,142 ,145 ,150 What does the value (131) represent ?
+   A) A)Mode
+   B) B)Mean
+   C) C)Median
+   D) Confidence interval
+
+Q23. Which of the following describes the transmission mode of coronavirus?
+   A) A)Respiratory route
+   B) B)Blood-borne route
+   C) C)Contaminated food and drinks
+   D) Direct contact with patient saliva
+
+Q24. What the function of small nuclear (snRNAs) in protein synthesis ?
+   A) A)Act as catalyst
+   B) B)Modifies mRNA molecules
+   C) C)Genetic blueprint for the protein
+   D) D)Translates genetic code to amino acid
+
+Q25. According to the FDA categories of the drug safety during pregnancy Amoxicillin is under category B What does that mean ?
+   A) A)No adequate animal or human studies have been conducted
+   B) B)Controlled human studies show no fetal risks from amoxicillin
+   C) C)Evidence of human fetal risk exists ,but benefits may outweight
+   D) D)Animal studies show no risk to the fetus and no controlled human studies
+
+Q26. Which of the following is the function of the pharmacy and therapeutic committee in a hospital?
+   A) A)Responsible for poison management
+   B) B)Monitor the adverse reaction reporting
+   C) C)Monitor the medication error reporting
+   D) D)Responsible for drug formulary management
+
+Q27. Which of the following best describe pharmacy health literacy assessment ?
+   A) A)Measure how well the pharmacy is serving patients with limited health literacy skills
+   B) B)Discover gaps in the written information provided to served patients
+   C) C)Explor understanding of health care information by the illiterate
+   D) D)Assess the level of literacy in the served patients
+
+Q28. Which of the following medication error is difficult to prevent ?
+   A) A)Omission error
+   B) B)Wrong time error
+   C) C)Incorrect duration of treatment
+   D) D)Allergic reactions to an unknown patient
+
+Q29. Which of the following best describes the structure of the healthcare systems in Saudi Arabia ?
+   A) A)Primary care based
+   B) B)Private based care
+   C) C)3-tier system
+   D) D)2-tier system
+
+Q30. - year-oId woman presented with complains of severe dry cough for a has week ,she has been recently prescribed hydrochlorothiazide and captopril for hypertension ,salbutamol and fexofenadine for allergic asthma Which drug is the most likely reason of the patient’s complaint?
+   A) A)Captopril
+   B) B)Salbutamol
+   C) C)Fexofenadine
+   D) D)Hydrochlorothiazide
+
+Q31. Which one of the following medication can a gynecologist prescribe to a patient ?
+   A) A)Tamoxifen
+   B) B)Fingolimod
+   C) C)Anastrozole
+   D) D)Misoprostol
+
+Q32. Which of the following is the time after which morphine empty vials are to be discarded ?
+   A) A)3 months
+   B) B)6 months
+   C) C)9 months
+   D) 12 months
+
+Q33. Which of the following is the validity of diazepam prescription (in days).According to ministry of health rules and regulation?
+   A) A)3
+   B) B)7
+   C) C)10
+   D) D)14
+
+Q34. Which of the following immunoglobulin activates complement system ?
+   A) IgM
+   B) IgE
+   C) IgA
+   D) IgG
+
+Q35. Research investigators must submit all research protocols to the institutional review board and obtain approval before performing the reasearch What is the main purpose of this board?
+   A) A)To help in collecting the date
+   B) B)To provide the needed fund for the research
+   C) C)To safeguard the rights of human research subjects
+   D) D)To calculate the most appropriate sample size for the research
+
+Q36. 36 _ Which of the following best describes the role of colipase in digestion of lipids?
+   A) A)It breaks down triglycerides into absorbable free fatty acids
+   B) B)It hydrolyzes cholesteryl esters into cholesterol and free fatty acids
+   C) C)It acts as co-enzyme for the action of lipase in the presence of bile acids
+   D) D)It plays an important role in the degradation and excretion of phospholipids
+
+Q37. Which of the following pairs represents the purines nitrogenous bases?
+   A) A)Adenine (A) and Uracil (U)
+   B) B)Cytosine (C) and Uracil (U)
+   C) C)Adenine (A) and guanine (G)
+   D) D)Cytosine (C) and guanine (G)
+
+Q38. A 20year-old man encounters a serious road accident. He is brought to The hospital with ‛deep wounds’. His vaccination history is unknown Which of the following would be best to administer to this patient at this time?
+   A) A)Tetanus vaccine
+   B) B)Tetanus immune globulin
+   C) C)Tetanus vaccine and tetanus immune globulin
+   D) D)Tetanus vaccine and human papillomavirus vaccine
+
+Q39. Which of the following strategies are used with older adult patients to encourage them to change their behavior ?
+   A) A)Use teach-back more often throughout the session
+   B) B)Introduce new concepts more slowly
+   C) C)Use briefer educational sessions
+   D) D)Use more visual aids
+
+Q40. Which of the following is a function of alcohol dehydrogenase enzyme ?
+   A) A)Accelerates the reduction of ethanol
+   B) B)Accelerate the addition of hydrogen to ethanol
+   C) C)Accelerates the addition of phosphate to ethanol
+   D) D)Accelerates the removal of hydrogen from ethanol
+
+Q41. The authors report two isolated gastro-intestinal tuberculosis in renal transplant recipients that illustrates the difficulty of making this diagnosis and a brief review of the literature on its clinical presentation, diagnosis and therapeutic approach. What is the type of study in the above-mentioned abstract?
+   A) A)Case-series
+   B) B)Cohort studies
+   C) C)Case-control studies
+   D) D)Cross-sectional studies
+
+Q42. Which of the following is the process of breaking down of glycogen ?
+   A) A)Glycolysis
+   B) B)Glycogenesis
+   C) C)Glycogenolysis
+   D) D)Gluconeogenesis
+
+Q43. A 37-year-old mother breastfeeding her child has developed consistent high blood preassure. The physician consults the pharmacy to recommend an antihypertensive to control her blood pressure Which of the following anti-hypertensive is most hazardous for the child?
+   A) A)Atenolol
+   B) B)Verapamil
+   C) C)Metoprolol
+   D) D)Propranolol
+
+Q44. Which of the following is used as an electronic medication dispenser to improve medication adherence ?
+   A) A)Text messaging
+   B) B)Cell phone calendar
+   C) C)E-pill MultiAlarm TimeCap
+   D) D)Med-E-Lert Automatic pill Dispenser
+
+Q45. A pharmacy department needs to design a system to maximize the value of the drug therapy to the patients, Which of the following systems should the pharmacy department operate ?
+   A) A)Patient safety program
+   B) B)Pharmacy benefit management
+   C) C)Pharmacy networking and bar-coding system
+   D) D)Communication with the prescriber and the therapist
+
+Q46. A-65-year-old man asks about vaccination before he leaves for summer vacation next month .He brings his vaccination record for the past 4 years (see table) Today’s Date : 05/31/2014 Which vaccination should this patient receive?
+   A) A)Influenza
+   B) B)Hepatitis A
+   C) C)Measles ,Mumps ,Rubella
+   D) D)Pneumococcal polysaccharide
+
+Q47. Which of the following is reguired to consider an advers drug event report a valid report?
+   A) A)Drug dose
+   B) B)Patients tall
+   C) C)Event name
+   D) D)Reporter’s phone
+
+Q48. Which of the following vaccines is contraindicated in a pregnant women?
+   A) A)Polio vaccine
+   B) B)Influenza (inactivated) vaccine
+   C) C)Measles ,Mumps ,Rubella (MMR)
+   D) D)Tetanus ,diphtheria ,Pertussis(T dap)
+
+Q49. Which of the following is the major risk associated with the use of over-the-counter drugs?
+   A) A)Incresed cost without benefit
+   B) B)Decreased drug-drug interactions
+   C) C)Increased potential for misuse and abuse
+   D) D)Increased risk of adverse events
+
+Q50. Scenario: A study located a group of subjects with lymphoma and went to identify which subjects are smokers and which are not . Which of the following study designs is used to conduct the study in the scenario?
+   A) A)Case-series
+   B) B)Cross-sectional study
+   C) C)Prospective cohort study
+   D) D)Retrospective cohort study
+
+Q51. Which one of the following statements accurately explain the idea of ‟Diffusion of innovation therapy for health promotion?
+   A) A)Psychological process of creativity
+   B) B)The way how people develop new idea
+   C) C)How new ideas are controlled by a culture
+   D) D)The method of disseminating innovative ideas a through a culture
+
+Q52. Which of the following inhibits gluconeogenesis?- 52
+   A) A)Insulin
+   B) B)Glucagon
+   C) C)Epinephrine
+   D) D)Glucocorticodes
+
+Q53. Which of the following is the most appropriate advice to give to asthmatic patients as non-pharmacological management ?
+   A) A)Air purifiers will help ease the patients symptoms
+   B) Weight-loss is unlikely to affect their symptoms now
+   C) C)Patients should be trained on breathing exercise programs
+   D) increase physical activity
+
+Q54. Which of following prescriptions may have a potential to cause medication error ?
+   A) Amlodipine 5.0 mg PO OD
+   B) B)Thyroxin 25 mcg PO daily
+   C) C)Acetaminophen 500mg PO TID
+   D) D)Regular insulin 5 units subcutaneously STAT
+
+Q55. Which of the following situations allow for accepting verbal order?
+   A) A)In a code status
+   B) B)To start chemotherapy
+   C) C)When prescriber is on vacation
+   D) For a non-formulary drug request
+
+Q56. A 24-year-old male presented to the hospital with a skin infection the microbiology technician received a sample form this patient the sample in a special media was incubated over 24 hour and showed Staphylococcus aureus. The microbiologist used disk diffusion method to determine the susceptibility of different antibiotics (see image) What is the most sensitive antibiotic?
+   A) A)Ampicillin(Amp)
+   B) B)Vancomycin(Van)
+   C) C)Methicillin(Meth)
+   D) D)Penicillin(Control)
+
+Q57. Which Of the following studies represent cost-effectiveness analyses study ?
+   A) A)Comparing costs for 2 therapeutically equivalent products
+   B) B)Comparing costs and savings of a pharmacist serves versus
+   C) C)Comparing patients achieving control as the outcome for 2 anti hyperglycemic drugs
+   D) D)Comparison of costs of 2 chemotherapy regime with the cost C using best supportive care
+
+Q58. There are four principles in biomedical ethics these ethics autonomy justice, Beneficence ,and one more principles Which of following as the fourth principles of biomedical ethics?
+   A) A)Privacy
+   B) Dilemmas
+   C) Non-maleficence
+   D) D)Conflict of interest
+
+Q59. Which of the following terms describes living microbe with reduced virulence ,and used for vaccination ?
+   A) A)Virulent
+   B) Dormant
+   C) C)Attenuated
+   D) D)Encapsulated
+
+Q60. Which of the following compounds is urea cycle a biochemical reaction that produce urea from ?
+   A) A)Sucrose
+   B) Glucose
+   C) C)Glycogen
+   D) Ammonia(NH3)
+
+Q61. Which of the following is the best approach for your patient when his/here objective measures of adherence are inconsistent with the subjective measures?
+   A) ‟I noticed there were some missing refills of your medication and I’m concerned that there might be a problem
+   B) ‟Your refill rerecords provides that you did net refilled your medication for the few months ago ,do you want to be refilled now?”EN
+   C) ‟Many of my patients have some difficulties remembering to take their medication ,What kind of problems have you experienced ”
+   D) ‟Sounds like you are not sure about how to take your medicine you show me how to take it ”
+
+Q62. Which of the following is a characteristic cholesterol?
+   A) A)Cholesterol has hydroxyl group at carbons
+   B) B)Cholesterol is a very hydrophilic compound
+   C) C)Cholesterol has four fused hydrocarbon rings
+   D) D)Cholesterol has three double bonds in its structure
+
+Q63. Which of the following terms measures the association between the exposure and the outcome?
+   A) P value
+   B) B)Risk ratio
+   C) C)Standard deviation
+   D) D)Confidence interval
+
+Q64. Which of the following bacteria is involved in the development of dental carries ?
+   A) A)Streptococcus mutans
+   B) Listeria monocytogenes
+   C) Streptococcus
+   D) Corynebacterium diphtheria
+
+Q65. A 3-year-old girl with symptoms of caught for the past 2 days came to the clinic with her mother .She has no fever and not other symptoms .Which of the following is the appropriate recommendation ?
+   A) Vicks
+   B) B)Honey
+   C) C)Diphenhydramine
+   D) D)Dextromethorphan
+
+Q66. Which of the following hormones stimulate mammy gland development and milk production ?
+   A) A)Prolactin
+   B) Oxytocin
+   C) Cortictropin
+   D) D)Growth hormone
+
+Q67. A patient visits pharmacy with fever and cough but has no prescription patients requests for acetaminophen, dextromethorphan syrup ,glycerin suppository and amoxicillin 500 mg capsules Which of the following needs prescription for delivery?
+   A) A)Amoxicillin capsules
+   B) B)Glycerin suppository
+   C) Acetaminophen tablet
+   D) D)Dextromethorphan syrup
+
+Q68. - What is the main method transmission of Brucella species ?
+   A) A )Airborne
+   B) Blood transfusion
+   C) Contact with infected person
+   D) ingestion of unpasteurized milk /milk products
+
+Q69. A group of patents with diabetes were interviewed to determine they are currently eating fast food or not. Which epidemiological study design is this?
+   A) Cohort
+   B) Case-control
+   C) C)Cross-sectional
+   D) Randomized control trial
+
+Q70. Which of the following distribution systems works better for medicine requiring a higher level of control?
+   A) Bulk ward stock
+   B) Direct procurement
+   C) Automated dispensing
+   D) Individual medication order
+
+Q71. A pregnant woman is travelling to a high risk malarialcontry which antimalarial prophylactic agent caries the most fetal risk in pregnant women?
+   A) A)Mefloquine
+   B) B)Doxycycline
+   C) C)Chloroquine
+   D) Atovaquone-proguanil
+
+Q72. Which of the following study design is the best to use to assess the awareness on the usage of vitamin D supplements among people of Jeddah
+   A) A)Cohort study
+   B) Case report study
+   C) Case control study
+   D) Cross sectiona study
+
+Q73. 73 _ Which of the following is the precursor for 5- hydrotryptamine (serotonin)?
+   A) A)Proline
+   B) Alanine
+   C) Glutamine
+   D) D)Tryptophan
+
+Q74. which of the following systems can be integrated with computerized physician order entry to guide physician during prescribing medications ?
+   A) Smart plumbs
+   B) B. barcode systems
+   C) Electronic distribution cabinets
+   D) Clinical decision support system
+
+Q75. Which of the following documents created by the World medical Which Association is the statement of ethical principles for medical research involving human subjects?
+   A) Ethics Code
+   B) Belmont Report
+   C) C)Nuremberg Zode
+   D) Declaration of Helsinki
+
+Q76. Which of the following method is successful in reducing medication error and enhance patient safety in hospitals?
+   A) Performing continuous education sessions on safe dispensing
+   B) Providing the pharmacy with the most updated drug references
+   C) Implementation of computerized physician order entry (CPOE) system
+   D) Encourage medical staff to participate in conferences and scientific meetings regular
+
+Q77. Which of the following committees is dedicated to developing and maintaining a list of approved medicine for the hospital medicines for the hospital use ?
+   A) Medical records
+   B) Medication audit
+   C) Quality assurance
+   D) Pharmacy and therapeutics
+
+Q78. Which one of the following question's types is used to identify a certain piece of information?
+   A) A)Leading questions
+   B) B)Open ended questions
+   C) C)Closed ended questions
+   D) D)Process and outcome questions
+
+Q79. Which of the following committees is responsible for requests of removing a drug from the hospital formulary?
+   A) Hospital Patient Safety
+   B) Mortality and Morbidity
+   C) C)Hospital Clinical Research
+   D) D)Pharmacy and Therapeutic
+
+Q80. The graph represents a quantal dose-response curve of a drug (see image) What is the median lethal dose (LD50) of the drug?
+   A) A)5
+   B) B)10
+   C) 20
+   D) 50
+
+Q81. A 23-year-old drug addict man was brought to the Emergency Room with severe agitation and excitement. He was administered intravenous diazepam, with no improvement in his condition. Which of the following is the mostly likely drug the patient was addicted on?
+   A) A)Opioids
+   B) Cocaine
+   C) C)Pregabalin
+   D) Cannabinoids
+
+Q82. An 8-year-old child had difficulty in breathing, swelling of tips and tongue, and fainted following eating a piece of cake containing nuts. Which of the following types of hypersensitivity reactions the child is exhibiting?
+   A) A )Immune-complex
+   B) Delayed hypersensitivity
+   C) Cytotoxic hypersensitivity
+   D) Immediate hypersensitivity
+
+Q83. Which of the following is considered a direct method to measure adherence?
+   A) A)Pill count
+   B) Pharmacy record
+   C) Patients questionnaires
+   D) Body drug concentration
+
+Q84. In pharmacoeconomic studies, the costs (inputs) for types of analyses are measured in dollars but the pharmacoeconomic method selected will depend on how the outcomes are measured. Which of the following analysis described the method when patient preferences for alternative treatments are being considered as the outcome?
+   A) Cost-Minimization
+   B) Cost-Effectiveness
+   C) Cost-Benefit
+   D) Cost-Utility
+
+Q85. Which of the following enzymes is responsible for forming DNA copy from RNA?
+   A) A)Reverse transcriptase
+   B) B)DNA polymerase
+   C) C)Helicase
+   D) D)Primase
+
+Q86. 87 __ A 39-year-old woman presents with complain of epigastria burning and pain for the last 6 month 33 / 272 significant medical history but reports an allergy to beta-lactam antibiotics. An office based Urea Breath Test is performed to diagnose Helicobacter pylori infection (see lab result) Which of the following is the most appropriate treatment regimen? .
+   A) A)Levofloxacin and lansoprazole for 14 days
+   B) Omeprazole, clarithromycin, and amoxicillin for 10 days
+   C) C)Omeprazole, clarithromycin, and metronidazole for 14 days
+   D) Omeprazole, bismuth subsalicylate,tetracycline, and azithromycin for 14 days
+
+Q87. Which of the following concepts that most of public health strategies are based on?
+   A) Primary prevention
+   B) Secondary prevention
+   C) C)Clean water and food
+   D) Ideal healthy community

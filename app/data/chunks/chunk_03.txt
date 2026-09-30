@@ -1,0 +1,521 @@
+Q175. Which of the following error detection strategies result in limiting detection?
+   A) bar-coding
+   B) trigger tools
+   C) voluntary reporting
+   D) D)mandatory reporting
+
+Q176. Which of the ethical principles do violate as a pharmacist when time and give consultations to only relative?
+   A) justice
+   B) autonomy
+   C) beneficence
+   D) D)non-maleficence
+
+Q177. Which of the following is the precursor for 5_hydroxytryptamine?
+   A) A)proline
+   B) B)alanine
+   C) C)glutamine
+   D) tryptophan
+
+Q178. In statistical testing: Which of the following is the interpretation of the resut of astatistical test denoted P?
+   A) A)the null hypothesis HO is rejected if P> 0.05
+   B) the null hypothesis HO is accepted if P < 0.05
+   C) the null hypothesis H0 is rejected if p <0.05
+   D) D)the null hypothesis HO is accepted if p> 0.05
+
+Q179. A 68-year-old man was diagnosed with rheumatoid arthritis 1 month ago. He has high disease activity as per the patient activity scale a eposions on radiograph. A trial of non-pharmacologic therapy is ineffective. Which of the following is the best drug therapy?
+   A) A)hydroxylchloroquine
+   B) B)mercaptopurine
+   C) C)adalimumab
+   D) D)abatacept
+
+Q180. 4 Which of the following is used to determine the significance of the result?
+   A) A)p value
+   B) B)odds ratio
+   C) hazard risk
+   D) D)relative risk
+
+Q181. What is the estimated amount of plasma in a 70-Kg male? (50-55ml/kg)
+   A) A)-3.5 liter
+   B) B)-1.1 liter
+   C) C)-35 liter
+   D) D)-11 liter
+
+Q182. Which of the following white blood cell types is the target of immunodeficiency virus during acquired immune deficiency syndrome(AIDS)?
+   A) A)CD1 lymphocytes
+   B) CD2 lymphocytes
+   C) C)CD3 lymphocytes
+   D) D)CD4 lymphocytes
+
+Q183. 42-year-old woman, a mother of 2 boys is diagnosed with cancer, treatment options includes either hysterectomy or chemotherapy The patient refused the surgery because she still wants to daughter, and do not want to receive any chemotherapy in protect her hair and beauty. What will be the most appropriate suggestion for her?
+   A) A-To start chemotherapy with very low doses and less frequen
+   B) To go with the option of surgery immediately because it is
+   C) C-To discuss the risk and benefit with the patient and take the decision
+   D) D-To force the patient to receive chemotherapy and wear syn hair extensions
+
+Q184. Which of the following studies represent a.cost-effectiveness study?
+   A) Comparing costs for 2 therapeutically equivalent products
+   B) Comparing costs and savings of a pharmacokinetic service diabetes clinic
+   C) Comparing patients achieving control as the outcome for 2 antihyperglycemic drugs
+   D) D)Comparison of costs of 2 chemotherapy regimens with the using best supportive care
+
+Q185. The treatment of tuberculosis (AntiTB) involves multiple medication have to be taken for a long period of time. Which of the following is the best way to ensure patient adherence AntiTB?
+   A) A)Apply Direct Observed Therapy, Short course strategy (DOT)
+   B) Add multivitamins to increase absorption of AntiTB
+   C) Interview the patient to assess their knowledge about AntiTB
+   D) Review current medications profile to avoid drug-drug inten with AntiTB
+
+Q186. What kind of association between the variables if you want to association between age and depression pre/post drug (A) use?
+   A) 2 continuous variables
+   B) A continuous variables and a binary variable
+   C) A continuous variables and an ordinal variable
+   D) A continuous variables and a categorical variable
+
+Q187. Which one of the following questioning techniques uses hints and aid patients in answering questions?
+   A) Changing questions
+   B) B)Empathic responding
+   C) Prompting while asking
+   D) Redirection the questions
+
+Q188. Which of the following describe glucose uptake and usage by as compared to other tissues of the body?
+   A) Brain cell can uptake and use glucose only in the presence
+   B) Brain cells can uptake and use glucose without being stimul insulin
+   C) C)Brain cells can uptake and use glucose when glucose is abol 100 mg/dL in the blood
+   D) Brain cells can uptake and use glucose when the insulin is at high level in the body
+
+Q189. A physician prescribes, for a 6-year-old child 10 mg, omeprazole daily for seven days as a syrup formulation. Omeprazóle capsules strength are available in the pharmacy is 10 mg Which of the following is the number of capsules required to make to suffice the total doses in the prescription if the final concentration syrup should be 2 mg/mL?
+   A) 2
+   B) 3
+   C) 5
+   D) 7
+
+Q190. Which of the following represents the immunity acquired by give living organism with attenuated virus?
+   A) Local immunity
+   B) B)Passive immunity
+   C) Natural active immunity
+   D) Artificial active immunity
+
+Q191. A 62-year-old man who just had a needle biopsy of pancreas adenocarcinoma. A pharmacist saw his brother in the hall, and him not to tell the patient because the knowledge would be very on his health. A family conference to discuss the prognosis is scheduled for later that afternoon. What is the way for the healthcare practitioner to handle the situation?
+   A) The healthcare practitioner should ask the patient how he the information in front of the rest of the family, and for some family discussion time for this matter
+   B) The healthcare practitioner should honor the request of the member who is protecting his beloved brother from the patient
+   C) The healthcare practitioner should tell the patient withholding information is not permitted under any circum
+   D) The patient should withhold informing the patient about the 2 pancreatic cancer because of the grave diagnosi
+
+Q192. A pharmacist is working in a busy community pharmacy where has several patients at the counter. A patient brought to you for Sildenafil for erectile dysfunction. Which of the following is the best way of communication with you to provide counseling?
+   A) Ask other patients to leave the pharmacy in order to commu with the patient
+   B) To protect patient privacy, no need to communicate with just provide the drug to him
+   C) Ask the patient to move to a private area in the pharmacy hear you clearly and ask questions
+   D) D)Write down the instructions in a paper and provide it to him talking to him in front of other patients
+
+Q193. A 38-year-old man is using citalopram 20mg po daily for depression which he has been taking for 1 year. A week ago, he had an infection and was prescribed linezolid 600 mg PO q12h for a total of 14 days. The patient began to get confused and easily agitated like he was breathing rapidly and started to sweat and developed. He was noticeably shaking. Which of the following is name of this drug-drug interact happened to this patient?
+   A) Hepatotoxicity
+   B) Seizure activity
+   C) Serotonin syndrome
+   D) Stevens Johnson syndrome
+
+Q194. Which of the following in electrocardiograph (ECG) represent absolute refractory period?
+   A) P wave
+   B) PR interval
+   C) ST segment
+   D) QRS complex
+
+Q195. The graphs represent quantal dose-response curves for the the effect and lethality by a drug (see image). What is the drug's therapeutic index?
+   A) 0.9
+   B) 1.1
+   C) 4
+   D) 10
+
+Q196. What is the main absorptive function of the colon?
+   A) Iron
+   B) Triglycerides
+   C) Water and glucose
+   D) D)Sodium, chloride, and water
+
+Q197. Which governmental agency gives approval to generic medical enter the drug market in Saudi Arabia after completing all requirements?
+   A) A)Ministry of Health (MOH)
+   B) Ministry of Commerce (MOC)
+   C) Saudi Food and Drug Authority (SFDA)
+   D) Saudi Commission for Health Specialists (SCFHS)
+
+Q198. Which of the following medications can cause pneumonia as a side effect?
+   A) Lisinopril
+   B) Metformin
+   C) Simvastatin
+   D) Omeprazole
+
+Q199. A 16-month-old baby with bronchopulmonary dysplasia is admitted Pediatric Intensive Care Unit with respiratory distress requiring in (see lab results) What is the best management?
+   A) Cefuroxime
+   B) Palivizumab
+   C) C)Corticosteroid
+   D) D)Intravenous fluids and supportive care
+
+Q200. Which of the following pharmacoeconomic studies is the simple conducted?
+   A) Cost-Utility Analysis
+   B) Cost-Benefit Analysis
+   C) Cost-Minimization Analysis
+   D) D)Cost-Effectiveness Analysis
+
+Q201. Which of the following perspectives incorporates all the costs and regardless of who incurs or obtains them?
+   A) Patient
+   B) Hospital
+   C) Societal
+   D) Ministry of Health
+
+Q202. Which of the following enzymes regulate supercoiling of DNA?
+   A) Helicases
+   B) Primases
+   C) Topoisomerases
+   D) Reverse transcriptase
+
+Q203. Which of the following is a characteristic for facultative anaerobic?
+   A) Only grow anaerobically
+   B) Only grow in the presence of oxygen
+   C) An anaerobe but can grow in the absence of oxygen
+   D) D)Require simultaneous presence of aerobic and anaerobic environments for growth
+
+Q204. Which of the following population is studied in phase I clinical trial ?
+   A) Healthy participants
+   B) Patients with single disease
+   C) Patients with multiple diseases
+   D) Patients in real world practice
+
+Q205. Which of the following is the name of the body responsihle for the approval of research in health institutions?
+   A) Date Review Board
+   B) Research Review Board
+   C) Institutional Review Board
+   D) Date and Safety Monitoring Board
+
+Q206. Click image to enlarge The hierarchy is showing Hospital X organizational chart. A pharmacist assigned as a clinical pharmacist in neuroscience ward (see image) Which of the following managerial position will the coworker re submitting a complaint?
+   A) Pharmacy Director
+   B) Medical affair Director
+   C) Neuroscience ward director
+   D) Clinical pharmacy department Head
+
+Q207. Which of the following reflect the significance of sample evidence?
+   A) The p-value
+   B) The F-ratio
+   C) C)Value of alpha
+   D) The importance of the sample
+
+Q208. Which of the following parts of the body does urea synthesis take? A)
+   A) Liver
+   B) B)Heart
+   C) Blood
+   D) Kidney
+
+Q209. Which of the following marketing mix contains market cover assortments?
+   A) A)Price
+   B) Place
+   C) C)Product
+   D) Promotion
+
+Q210. What is the type of costs for traveling from Jeddah to Riyadh to health care from pharmacoeconomic perspective?
+   A) Indirect
+   B) Intangible
+   C) Direct -non medical
+   D) Non-direct medical
+
+Q211. -A patient medication was changed from carbamazepine to phenytion The technician pulled the 100 mg tablets of phenobarbital off instead of the 30 mg tablets. The pharmacist did not notice that when the prescription was checked. The patient received a higher phenobarbital and was hospitalized for few days for observation. Which of the following is the best statement concerning this situation
+   A) This is considered as adverse drug reaction
+   B) The physician should have informed the pharmacist about prescription's change
+   C) The patient should be aware of what he was prescribed and the difference
+   D) This is preventable medication error if the pharmacy im safety measures
+
+Q212. Which of the following is the first antibody to be produced new infection?
+   A) IgM
+   B) IgG
+   C) C)IgA
+   D) IgE
+
+Q213. An 81-year-old man presents with urinary hesitancy and difficult for the past 1 month. He has a history of urine incontinence, and his physician suspects that he may have benign prostatic. He is currently taking oxybutynin and lisinopril. Which of the following interventions is the most appropriate?
+   A) A)Discontinue oxybutynin
+   B) Discontinue Lisinopril
+   C) Start alfuzosin
+   D) Start prazosin
+
+Q214. A 35-year-old individual is receiving 20 mg of propranolol hydro four times daily as a prophylaxis to migraine attacks. The drug 25% bioavailability due to extensive first pass effect. What amount of the drug reaches the systemic circulation after dosing?
+   A) 2.5 mg
+   B) 5.0 mg
+   C) 7.5 mg
+   D) D)10mg
+
+Q215. If a study is to follow a group of smokers and a group of nonsmokers time, and see which ones eventually develop lymphoma and which. What do you call this study design?
+   A) Retrospective cohort study
+   B) Prospective cohort study
+   C) Cross-sectional study
+   D) Case-series
+
+Q216. A 74-year-old man with chest infection is admitted to a teaching. The patient requires chest an X-ray. The chief resident bronchoscopy to be conducted. One of her reasons for this decision allow an inexperienced intern to practice this technical procedure. Which of the following describes his action?
+   A) Individual patients are not obligated to participate in the society's future physicians, but if the patients agree, it is
+   B) Good as this is a teaching hospital and the student have these skills to function effectively as physicians
+   C) Procedures involving any risk should be performed only for diagnostic or therapeutic purposes but not teaching
+   D) The senior physician should remain present when inexpen students make this procedure
+
+Q217. What kind of outcomes can be determined by cost-minimization?
+   A) A)Monetary units
+   B) Quality- adjusted life-years
+   C) Natural units
+   D) Comparing the cost of two identical products
+
+Q218. Which of the following statements provides the best described incremental cost-effectiveness ratio?
+   A) A)The cost per extra benefit of a new strategy, independent
+   B) The extra cost to obtain an extra benefit when switching alternative to another
+   C) The cost per quality-adjusted life year gained
+   D) A summary measurement of efficiency
+
+Q219. Which of the following governmental bodies is responsible for diseases prevention during Hajj?
+   A) Ministry of Health
+   B) Saudi Health Council
+   C) Saudi Food and drug authority
+   D) Saudi commission for Health specialists
+
+Q220. What is the description of viruses that live as parasites on bactenia?
+   A) fungi
+   B) Lichens
+   C) Commensels
+   D) D)Bacteriophage
+
+Q221. Which one of the following designs could be deemed an study?
+   A) Cohort
+   B) Clinical trials
+   C) Case-control
+   D) D)cross-sectional
+
+Q222. Which of the following situation demonstrates a direct association pharmacoepidemiological study?
+   A) The study reveals that it is not a false association
+   B) The regression provides misleading statistical evidence
+   C) The association between two variables is a result of another
+   D) The association between the two attributes is not through attributes
+
+Q223. A patient came to the pharmacy returning phenytoin 30 mg suspension bottles. He explained that when he opened the second after consuming the first one, he noticed the solution has different. The pharmacist dispensed another bottle to the patient and the event in the patient profile. Which one of the following reports the pharmacist show product?
+   A) Opportunity Report form
+   B) Quality Defects Reporting Form
+   C) Adverse Drug Event Reporting Form
+   D) Medication Returned by patient form
+
+Q224. During prescription verification, a pharmacist identified a drug interaction in a 23-year-old woman diagnosed with urinary tract and prescribed an antibiotic. Pharmacist contacted the change to a drug that will not harm the patient. Which of the following antibiotics is the best option for the patient?
+   A) Cephalexin
+   B) Ciprofloxacin
+   C) Nitrofurantion
+   D) Trimethoprim-sulfamethoxazole
+
+Q225. A 7-year-old girl presents with moderate dehydration due to vomiting (see lab results). What is the most suitable replacement fluid?
+   A) 0.9% Sodium chloride
+   B) 5% Dextrose with sodium bicarbonate
+   C) 0.9% sodium chloride with potassium chloride
+   D) 5% Dextrose\0.225 % sodium chloride with potassium
+
+Q226. Which of the following communication skills can help patient complete their train of thought?
+   A) Closed-ended questions
+   B) Facial expression
+   C) Use of reminders
+   D) Body posture
+
+Q227. In 2017, a research paper published in NEJM" found that the canagliflozin, an antidiabetic drug belongs to SGLT2 cardiovascular renal, hospitalization, and death events were the figure (see image).Which one of the following statement is correct bearing in mind of Canagliflozin?
+   A) Exacerbates albuminuria
+   B) Causes cardiovascual deaths
+   C) Increases the chance of fatal strokes
+   D) Has protective effect against cardiovascular deaths
+
+Q228. A 25-year-old man with leukemia admitted to hematology oncology center. Who is allowed to read the patient file without additional permission
+   A) Patient's cousin who is working as out-patient nurse in the hospital
+   B) Medical resident in pediatric who wants to explore the risk leukemia
+   C) Clinical nutritionist who is assigned to calculate the requires for the patient
+   D) Pharmacy resident who is planning to do a research cell transplant
+
+Q229. Which of the following is the interpretation of a P-value of 0.05?
+   A) There is 0.05% probability that the result are due to random chance
+   B) There is 5% probability that the results äre due to random
+   C) There is 50% probability that the results are due to random
+   D) There is 95% probability that the results are due to random
+
+Q230. Public health is the science of protecting the health of a community Which population from the following list is their target?
+   A) People at risk of being sick
+   B) Injured and sick people
+   C) Mothers and children
+   D) Entire community
+
+Q231. A pharmacist is hired as in charge of controlled medication pharmacist made inventory record for controlled medications pharmacy before the old pharmacist left. Which of the following is most likely to receive the original record?
+   A) A)Pharmacy
+   B) Hospital Administration
+   C) Medical Record Department
+   D) D)Saudi Food and Drug authority
+
+Q232. An elderly man presented to the emergency room with dizziness consciousness, and respiratory depression. He was recently medication for inability to sleep. Which of the following medications is the most likely drug involve toxicity?
+   A) Aspirin
+   B) B)Naproxen
+   C) Diazepam
+   D) Acetaminophen
+
+Q233. researcher reported the data (see image). What is the name of this chart?
+   A) A)Pie chart
+   B) Histogram
+   C) Forest plot
+   D) Funnel plot
+
+Q234. A 55-year-old man brought a prescription for Oxycontin on April year. The script from doctor is dated December 17 of last year prescription allows five refills. What quantity of fill (s) is\are likely to be received by the patient?
+   A) 1 Today+1 Refill
+   B) 0 Today + 0 Refill
+   C) 1 Today + 2 Refill
+   D) 1 Today + 0 Refill
+
+Q235. Which of the following is an intervention study?
+   A) Cohort
+   B) Ecological
+   C) Case-Control
+   D) Randomized Clinical Trial
+
+Q236. Which of the following local organization's primary mission is to the safety and quality of healthcare in health institution?
+   A) Saudi central board for accreditation of healthcare institutions (CBAHI)
+   B) Saudi Commission for Health Specialties (SCFHS)
+   C) Saudi Food and Drug Authority (SFDA)
+   D) Saudi pharmaceutical Society (SPS)
+
+Q237. Which of the following is most likely to inhibit lactation?
+   A) Prolactin
+   B) B)Progestrone
+   C) Growth hormone
+   D) D)Chorionic somatomammotropin
+
+Q238. Which of the following is the definition of management?
+   A) The art of maximizing profitability
+   B) The art of maximizing productivity
+   C) C)The art of maximizing possibilities
+   D) D)The art of maximizing predictability
+
+Q239. A 28-year-old woman was recently diagnosed with Crohn’ was started with high dose intervenous corticosteroids .she conversion to oral drugs and was started on infliximab, a tumour factor α(TNf-α), inhibitor. Which of the following tests should be performed prior to infliximab?
+   A) HIV screening
+   B) Influenza screening
+   C) Hepatitis C screening
+   D) D)Tuberculosis screening
+
+Q240. A pharmacist working in inpatient pharmacy received a request pharmacy and therapeutic (P&T) committee to evaluate a included in e hospital formulary. The request wants to have the value in a monetary value(dollar value) Which of the following pharmacoeconomics tools will the pharmacy to answer the request?
+   A) Cost-utility analysis
+   B) Cost-benefit analysis
+   C) C)Cost-minimization analysis
+   D) D)Cost-effectiveness analysis
+
+Q241. An ambulatory care pharmacist received a prescription for (liraglutide) (REMS), from Bariatric Endocrine consultant as per medication under (REMS) should be provided to the patient with documents. Which of the following is the meaning of (REMS) beside the name?
+   A) This medication has teratogenicity effect
+   B) This medication is under (restriction and evaluation medication Strategy)
+   C) This medication is under (Risk Evaluation and Mitigation )
+   D) D)This medication is under (Restriction Evaluation Medication
+
+Q242. To which of the following the major histocompatibility complex unique?
+   A) Each cell
+   B) Each organ
+   C) C)Each species
+   D) D)Each individual
+
+Q243. A hospital conducted a pharmacovigilance (PV) activity to detected events after certain treatment, by asking patients directly and patient records. Which of the following is the type of PV activity conducted by ?
+   A) Active PV
+   B) Passive PV
+   C) Mandatory PV
+   D) D)Spontaneous PV
+
+Q244. Which of the following means that individuals have the understand basic health information to make appropriate health?
+   A) A)Health literacy
+   B) B)Cultural competency
+   C) Communication skills
+   D) Professional communication
+
+Q245. Which of the following is a non-essential amino acid?
+   A) Lysine
+   B) Valine
+   C) Cysteine
+   D) Isoleucine
+
+Q246. Which of the following is a B-lactamse enzyme?
+   A) Plasmid
+   B) Pyrogens
+   C) DNA gyrase
+   D) D)Carbapenemase
+
+Q247. Which of the following age groups is inactivated polio recommendation?
+   A) A)Immediately after birth
+   B) Children up to 6 years old
+   C) Children more than 10 years old
+   D) Recommended for all age groups
+
+Q248. Which one of the following measures can be classified as a central tendency?
+   A) Confidence interval
+   B) Standard deviation
+   C) Sampling error
+   D) D)Validity
+
+Q249. Which of the following Clostridium spp. Is linked to the develop pseudomembranous colitis?
+   A) C. tetani
+   B) C. difficile
+   C) C)C. botulinum
+   D) D)C. Perfringens
+
+Q250. Researchers compare a group of people who have diabetes with of people who have no diabetes, and looks back in time to see characteristics of the two groups differ. Which of the following is the described study design?
+   A) A)Prospective cohort
+   B) B)Case-Control
+   C) C)Experimental
+   D) D)Randomized clinical
+
+Q251. Which of the following is the abbrevation for drug to be taken by mouth?
+   A) A)P.O
+   B) B)p.R
+   C) C)PRN
+   D) D)U.D
+
+Q252. Which of the following is the appropriate defined pharmacoepidemiology?
+   A) A)The study of chronic diseases
+   B) The study of infectious diseases in large populations
+   C) C)The study of the use of and effects of drugs in large number people
+   D) D)The study of the distribution and determinants of diseases populations
+
+Q253. A study that investigate if drinking coffee lead to coronary hear found that there is a correlation between two variables. However drinkers are more often smokers than the average and, correlation between drinking coffee and nicotine consumption, strong causal correlation between smoking and the incidence of heart disease. Which of the flowing type of bias affect this study results?
+   A) Measurement errors
+   B) Hawthorne effect
+   C) Information bias
+   D) D)Confounding
+
+Q254. Which of the following hormones is responsible for milk product mammary glands?
+   A) A)Oxytocin
+   B) Prolactin
+   C) Luteiniz
+   D) D)Follicle-stimulating hormone
+
+Q255. Where dose the electron transport chain reaction pathway take ?
+   A) Cell cytoplasm
+   B) B)Golgi apparatus
+   C) C)Outer mitochondrial membrance
+   D) D)Inner mitochondrial membrance
+
+Q256. In pharmacoeconomics and outcomes research, QALYS are used utilities. QALY is the quality-adjusted life year. Which of the following is an interpretation of an individual with?
+   A) A)Death
+   B) Coma
+   C) C)Illness
+   D) Perfect health
+
+Q257. Which of the following is a common enzyme polymorphism that could potentially alter clopidogrel efficacy ?
+   A) Cyp2c9
+   B) Cyp2c10
+   C) Cyp2c19
+   D) Cyp2c7
+
+Q258. Which is the best treatment for staphylococcus aureus positive mastitis?
+   A) A)Cephalexin
+   B) B)Clindamycin
+   C) D)Nitrofurantoin
+   D) Ciprofloxain
+
+Q259. Which of the following infection be preventable by using vaccines?
+   A) HIV
+   B) Varicella
+   C) Brucellosis
+   D) Hepatitis C
+
+Q260. A 23 year-old man has recently been started on phenytoin for the treatment of epilepsy. He is taking no other medication he has noted recently swelling and bleeding of the gum and wants to know if this might be drug related.
+   A) Drug interaction facts
+   B) The Harriet lane handbook
+   C) C)Meylers side effects of drugs
+   D) Natural Medicine comprehensive database
+
+Q261. A 73-year-old man is diagnosed with osteoarthritis of the knee. Which of the following is the best initial therapy?
+   A) Ibuprofen
+   B) B)Gabapentin
+   C) C)Acetaminophen
+   D) D)Glucosamine sulfate

@@ -1,0 +1,631 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>Prometric Prep — Question Bank</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;0,700;0,800;0,900;1,600;1,700&family=Inter:wght@400;500;600;700;800&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css?v=9">
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<meta name="theme-color" content="#0f3d2e">
+</head>
+<body>
+<div class="grain" aria-hidden="true"></div>
+<div class="aurora" aria-hidden="true"></div>
+
+<!-- ============ SVG ICON SPRITE (Lucide-style, 2px stroke) ============ -->
+<svg xmlns="http://www.w3.org/2000/svg" style="display:none" aria-hidden="true">
+  <defs>
+    <symbol id="i-cap" viewBox="0 0 24 24"><path d="M22 10 12 5 2 10l10 5 10-5Z"/><path d="M6 12.5V17c0 1.66 2.69 3 6 3s6-1.34 6-3v-4.5"/><path d="M22 10v6"/></symbol>
+    <symbol id="i-book" viewBox="0 0 24 24"><path d="M2 4h6a4 4 0 0 1 4 4v13a3 3 0 0 0-3-3H2z"/><path d="M22 4h-6a4 4 0 0 0-4 4v13a3 3 0 0 1 3-3h7z"/></symbol>
+    <symbol id="i-layers" viewBox="0 0 24 24"><path d="m12 2 10 5-10 5L2 7Z"/><path d="m2 12 10 5 10-5"/><path d="m2 17 10 5 10-5"/></symbol>
+    <symbol id="i-target" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="5"/><circle cx="12" cy="12" r="1"/></symbol>
+    <symbol id="i-zap" viewBox="0 0 24 24"><path d="M13 2 3 14h8l-1 8 11-13h-8l1-7Z"/></symbol>
+    <symbol id="i-award" viewBox="0 0 24 24"><circle cx="12" cy="9" r="6"/><path d="m15.5 13.5 1.5 8-5-3-5 3 1.5-8"/></symbol>
+    <symbol id="i-clipboard" viewBox="0 0 24 24"><rect x="5" y="4" width="14" height="17" rx="2"/><path d="M9 4a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2"/><path d="m9 13 2 2 4-4"/></symbol>
+    <symbol id="i-flag" viewBox="0 0 24 24"><path d="M4 15s1-1 4-1 5 2 8 2 4-1 4-1V4s-1 1-4 1-5-2-8-2-4 1-4 1z"/><path d="M4 22v-7"/></symbol>
+    <symbol id="i-arrow-right" viewBox="0 0 24 24"><path d="M5 12h14"/><path d="m13 6 6 6-6 6"/></symbol>
+    <symbol id="i-chev-left" viewBox="0 0 24 24"><path d="m15 18-6-6 6-6"/></symbol>
+    <symbol id="i-chev-right" viewBox="0 0 24 24"><path d="m9 18 6-6-6-6"/></symbol>
+    <symbol id="i-clock" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></symbol>
+    <symbol id="i-grid" viewBox="0 0 24 24"><rect x="3" y="3" width="7" height="7" rx="1.5"/><rect x="14" y="3" width="7" height="7" rx="1.5"/><rect x="3" y="14" width="7" height="7" rx="1.5"/><rect x="14" y="14" width="7" height="7" rx="1.5"/></symbol>
+    <symbol id="i-check" viewBox="0 0 24 24"><path d="m20 6-11 11-5-5"/></symbol>
+    <symbol id="i-check-c" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="m8.5 12 2.5 2.5 5-5"/></symbol>
+    <symbol id="i-x" viewBox="0 0 24 24"><path d="M18 6 6 18"/><path d="m6 6 12 12"/></symbol>
+    <symbol id="i-x-c" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="m15 9-6 6"/><path d="m9 9 6 6"/></symbol>
+    <symbol id="i-minus-c" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M8.5 12h7"/></symbol>
+    <symbol id="i-bulb" viewBox="0 0 24 24"><path d="M9 18h6"/><path d="M10 21h4"/><path d="M12 3a6.5 6.5 0 0 0-3.7 11.8c.7.5 1.2 1.3 1.2 2.2h5c0-.9.5-1.7 1.2-2.2A6.5 6.5 0 0 0 12 3Z"/></symbol>
+    <symbol id="i-key" viewBox="0 0 24 24"><circle cx="7.5" cy="15.5" r="4.5"/><path d="M11 12 21 2"/><path d="m16 3 3 3"/><path d="m13 6 3 3"/></symbol>
+    <symbol id="i-rotate" viewBox="0 0 24 24"><path d="M3 12a9 9 0 1 0 2.64-6.36L3 8"/><path d="M3 3v5h5"/></symbol>
+    <symbol id="i-badge" viewBox="0 0 24 24"><path d="M3.85 8.62a4 4 0 0 1 4.78-4.77 4 4 0 0 1 6.74 0 4 4 0 0 1 4.78 4.78 4 4 0 0 1 0 6.74 4 4 0 0 1-4.77 4.78 4 4 0 0 1-6.75 0 4 4 0 0 1-4.78-4.77 4 4 0 0 1 0-6.76Z"/><path d="m9 12 2 2 4-4"/></symbol>
+    <symbol id="i-list" viewBox="0 0 24 24"><path d="M8 6h13M8 12h13M8 18h13"/><path d="m3 6h.01M3 12h.01M3 18h.01"/></symbol>
+    <symbol id="i-monitor" viewBox="0 0 24 24"><rect x="2" y="3" width="20" height="14" rx="2"/><path d="M8 21h8"/><path d="M12 17v4"/></symbol>
+    <symbol id="i-sliders" viewBox="0 0 24 24"><line x1="21" y1="4" x2="14" y2="4"/><line x1="10" y1="4" x2="3" y2="4"/><line x1="21" y1="12" x2="12" y2="12"/><line x1="8" y1="12" x2="3" y2="12"/><line x1="21" y1="20" x2="16" y2="20"/><line x1="12" y1="20" x2="3" y2="20"/><line x1="14" y1="2" x2="14" y2="6"/><line x1="8" y1="10" x2="8" y2="14"/><line x1="16" y1="18" x2="16" y2="22"/></symbol>
+    <symbol id="i-help" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M9.1 9a3 3 0 0 1 5.8 1c0 2-3 3-3 3"/><path d="M12 17h.01"/></symbol>
+    <symbol id="i-highlighter" viewBox="0 0 24 24"><path d="m9 11-6 6v3h9l3-3"/><path d="m22 12-4.6 4.6a2 2 0 0 1-2.8 0l-5.2-5.2a2 2 0 0 1 0-2.8L14 4l8 8Z"/></symbol>
+    <symbol id="i-exit" viewBox="0 0 24 24"><path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"/><path d="m16 17 5-5-5-5"/><path d="M21 12H9"/></symbol>
+    <symbol id="i-coffee" viewBox="0 0 24 24"><path d="M17 8h1a4 4 0 1 1 0 8h-1"/><path d="M3 8h14v9a4 4 0 0 1-4 4H7a4 4 0 0 1-4-4Z"/><path d="M6 2v2"/><path d="M10 2v2"/><path d="M14 2v2"/></symbol>
+    <symbol id="i-history" viewBox="0 0 24 24"><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/><path d="M3 3v5h5"/><path d="M12 7v5l4 2"/></symbol>
+    <symbol id="i-trend" viewBox="0 0 24 24"><polyline points="22 7 13.5 15.5 8.5 10.5 2 17"/><polyline points="16 7 22 7 22 13"/></symbol>
+    <symbol id="i-trash" viewBox="0 0 24 24"><path d="M3 6h18"/><path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6"/><path d="M8 6V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"/><line x1="10" y1="11" x2="10" y2="17"/><line x1="14" y1="11" x2="14" y2="17"/></symbol>
+    <symbol id="i-upload" viewBox="0 0 24 24"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="17 8 12 3 7 8"/><line x1="12" y1="3" x2="12" y2="15"/></symbol>
+    <symbol id="i-file-down" viewBox="0 0 24 24"><path d="M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z"/><path d="M14 2v4a2 2 0 0 0 2 2h4"/><path d="M12 18v-6"/><path d="m9 15 3 3 3-3"/></symbol>
+  </defs>
+</svg>
+
+<header class="topbar">
+  <a class="wordmark" href="#" id="brandLink">
+    <span class="wordmark-badge"><svg class="ic" aria-hidden="true"><use href="#i-cap"/></svg></span>
+    <span class="wordmark-text">Prometric<em>Prep</em></span>
+  </a>
+  <div class="topbar-meta">
+    <svg class="ic" aria-hidden="true"><use href="#i-badge"/></svg>
+    <span class="mono" id="topMeta">627 questions · official answer key</span>
+  </div>
+</header>
+
+<main id="app">
+
+  <!-- ============ HOME ============ -->
+  <section class="view view-home" id="viewHome">
+    <div class="hero">
+      <p class="hero-kicker mono"><svg class="ic" aria-hidden="true"><use href="#i-cap"/></svg>Saudi Prometric · Licensing Exam Practice</p>
+      <h1 class="hero-title">The Question<br><span class="hero-accent">Bank.</span></h1>
+      <p class="hero-sub">Every question from the source forms, deduplicated, and paired with the
+      <strong>official answer key</strong> — extracted from the graded quiz results, not guessed.</p>
+      <ul class="hero-stats">
+        <li>
+          <span class="stat-ic"><svg class="ic" aria-hidden="true"><use href="#i-book"/></svg></span>
+          <span class="stat-num" data-count="627">0</span><span class="stat-label">unique questions</span>
+        </li>
+        <li>
+          <span class="stat-ic"><svg class="ic" aria-hidden="true"><use href="#i-layers"/></svg></span>
+          <span class="stat-num" data-count="7">0</span><span class="stat-label">modules of 100</span>
+        </li>
+        <li>
+          <span class="stat-ic"><svg class="ic" aria-hidden="true"><use href="#i-badge"/></svg></span>
+          <span class="stat-num" data-count="100">0</span><span class="stat-label">% keyed answers</span>
+        </li>
+      </ul>
+    </div>
+
+    <!-- ============ PROMETRIC EXAM SIMULATOR — launch option ============ -->
+    <section class="sim-launch" id="simLaunch" aria-label="Prometric Exam Simulator">
+      <div class="sim-launch-badge"><svg class="ic" aria-hidden="true"><use href="#i-monitor"/></svg></div>
+      <div class="sim-launch-text">
+        <p class="hero-kicker mono"><svg class="ic" aria-hidden="true"><use href="#i-badge"/></svg>SCFHS interface · real exam environment</p>
+        <h2 class="sim-launch-title">Prometric <span>Exam Simulator</span></h2>
+        <p class="sim-launch-sub">Sit the full mock exam in the official Prometric test-drive interface —
+        <strong>two parts of 100 questions</strong> with a break in between. Every attempt draws its questions
+        <strong>at random from all 7 modules</strong>: close the app, open it again, and you face a different set.
+        Answer with the mouse, move back and forth freely, and change any answer until each part ends.</p>
+        <ul class="sim-launch-chips mono">
+          <li><svg class="ic" aria-hidden="true"><use href="#i-layers"/></svg>2 parts × 100 Q</li>
+          <li><svg class="ic" aria-hidden="true"><use href="#i-award"/></svg>4 pts / question</li>
+          <li><svg class="ic" aria-hidden="true"><use href="#i-target"/></svg>pass 536 / 800</li>
+          <li><svg class="ic" aria-hidden="true"><use href="#i-flag"/></svg>flag for review</li>
+          <li><svg class="ic" aria-hidden="true"><use href="#i-highlighter"/></svg>highlight</li>
+          <li><svg class="ic" aria-hidden="true"><use href="#i-x"/></svg>strikethrough</li>
+        </ul>
+      </div>
+      <button class="btn btn-gold sim-launch-btn" id="simLaunchBtn" type="button">
+        <span>Launch Simulator</span><svg class="ic" aria-hidden="true"><use href="#i-arrow-right"/></svg>
+      </button>
+    </section>
+
+    <!-- ============ PROGRESS HUB — history · performance · learn from mistakes ============ -->
+    <section class="hub" aria-label="Your progress">
+      <button class="hub-tile" id="hubHistory" type="button">
+        <span class="hub-ic"><svg class="ic" aria-hidden="true"><use href="#i-history"/></svg></span>
+        <span class="hub-body">
+          <span class="hub-title">History</span>
+          <span class="hub-sub">exam results by time &amp; score</span>
+        </span>
+        <span class="hub-badge mono" id="hubHistoryCount"></span>
+      </button>
+      <button class="hub-tile" id="hubPerformance" type="button">
+        <span class="hub-ic"><svg class="ic" aria-hidden="true"><use href="#i-trend"/></svg></span>
+        <span class="hub-body">
+          <span class="hub-title">Performance</span>
+          <span class="hub-sub">accuracy, trend &amp; modules</span>
+        </span>
+      </button>
+      <button class="hub-tile hub-gold" id="hubMistakes" type="button">
+        <span class="hub-ic"><svg class="ic" aria-hidden="true"><use href="#i-bulb"/></svg></span>
+        <span class="hub-body">
+          <span class="hub-title">Learn from mistakes</span>
+          <span class="hub-sub">replay wrong questions until correct</span>
+        </span>
+        <span class="hub-badge mono" id="hubMistakeCount" hidden></span>
+      </button>
+      <button class="hub-tile" id="hubImport" type="button">
+        <span class="hub-ic"><svg class="ic" aria-hidden="true"><use href="#i-upload"/></svg></span>
+        <span class="hub-body">
+          <span class="hub-title">Import questions</span>
+          <span class="hub-sub">txt · Word · PDF → new module</span>
+        </span>
+        <span class="hub-badge mono" id="hubImportCount" hidden></span>
+      </button>
+    </section>
+
+    <div class="home-grid">
+      <section class="modules">
+        <div class="modules-head">
+          <h2 class="section-title"><svg class="ic" aria-hidden="true"><use href="#i-layers"/></svg>Choose a module</h2>
+          <span class="mono head-note">questions · time · options are set before each start</span>
+        </div>
+        <div class="module-grid" id="moduleGrid"><!-- cards injected --></div>
+      </section>
+
+      <aside class="home-side">
+        <div class="note-card">
+          <h3><span class="note-ic"><svg class="ic" aria-hidden="true"><use href="#i-bulb"/></svg></span>How it works</h3>
+          <ol>
+            <li>Pick a module above — no question ever repeats across modules.</li>
+            <li>Answer at your own pace; use the palette to jump around.</li>
+            <li>Finish to see your result and the correct answer for every question.</li>
+          </ol>
+        </div>
+        <div class="note-card note-gold">
+          <h3><span class="note-ic"><svg class="ic" aria-hidden="true"><use href="#i-key"/></svg></span>The answer key</h3>
+          <p>Each source quiz was submitted and its graded review collected, so every
+          correct answer here is the one the examiners keyed — verified to agree
+          wherever the same question appeared twice.</p>
+          <p class="note-tip"><strong>Tip:</strong> Do not rely solely on the provided answers; please review and verify all of them.</p>
+        </div>
+      </aside>
+    </div>
+  </section>
+
+  <!-- ============ QUIZ ============ -->
+  <section class="view view-quiz" id="viewQuiz" hidden>
+    <div class="quiz-top">
+      <div class="quiz-meta">
+        <button class="btn btn-ghost btn-sm" id="quitBtn" type="button"><svg class="ic" aria-hidden="true"><use href="#i-chev-left"/></svg><span>Modules</span></button>
+        <span class="quiz-name" id="quizName"></span>
+        <span class="quiz-mode-tag mono" id="quizModeTag"></span>
+      </div>
+      <div class="quiz-meta-right">
+        <span class="mono quiz-timer" id="quizTimerWrap"><svg class="ic" aria-hidden="true"><use href="#i-clock"/></svg><span id="quizTimer">00:00</span></span>
+        <span class="mono quiz-count" id="quizCount">1 / 100</span>
+      </div>
+    </div>
+    <div class="quiz-progress" role="progressbar" aria-label="Quiz progress" aria-hidden="true"><div class="quiz-progress-fill" id="progressFill"></div></div>
+
+    <article class="qcard" id="qcard">
+      <div class="qcard-head">
+        <span class="qnum mono" id="qNum">Q1</span>
+        <span class="qstate mono" id="qState"></span>
+      </div>
+      <h2 class="qtext" id="qText"></h2>
+      <div class="opts" id="opts" role="group" aria-label="Options"></div>
+      <div class="feedback" id="feedback" hidden></div>
+    </article>
+
+    <div class="quiz-nav">
+      <button class="btn btn-ghost" id="prevBtn" type="button"><svg class="ic" aria-hidden="true"><use href="#i-chev-left"/></svg><span>Previous</span></button>
+      <button class="btn btn-ghost" id="paletteBtn" type="button"><svg class="ic" aria-hidden="true"><use href="#i-grid"/></svg><span>Palette</span></button>
+      <button class="btn btn-primary" id="nextBtn" type="button"><span id="nextLabel">Next</span><svg class="ic" aria-hidden="true"><use href="#i-chev-right"/></svg></button>
+      <button class="btn btn-gold" id="finishBtn" type="button"><svg class="ic" aria-hidden="true"><use href="#i-flag"/></svg><span>Finish &amp; See Results</span></button>
+    </div>
+
+    <div class="palette" id="palette" hidden>
+      <div class="palette-head">
+        <span class="mono" id="paletteSummary"></span>
+        <button class="palette-close" id="paletteClose" type="button" aria-label="Close palette"><svg class="ic" aria-hidden="true"><use href="#i-x"/></svg></button>
+      </div>
+      <div class="palette-grid" id="paletteGrid"></div>
+    </div>
+  </section>
+
+  <!-- ============ RESULTS ============ -->
+  <section class="view view-results" id="viewResults" hidden>
+    <div class="score-panel">
+      <div class="score-ring-wrap">
+        <svg class="ring" viewBox="0 0 120 120" aria-hidden="true">
+          <circle class="ring-bg" cx="60" cy="60" r="52"/>
+          <circle class="ring-fg" id="scoreRing" cx="60" cy="60" r="52"/>
+        </svg>
+        <span class="ring-pct" id="scorePct">0%</span>
+      </div>
+      <div class="score-left">
+        <p class="hero-kicker mono" id="resultKicker">Module 1 — complete</p>
+        <div class="score-big"><span id="scoreNum">0</span><span class="score-total mono" id="scoreTotal">questions</span></div>
+        <div class="score-breakdown mono">
+          <span class="chip chip-ok" id="countCorrect"></span>
+          <span class="chip chip-bad" id="countWrong"></span>
+          <span class="chip chip-skip" id="countSkipped"></span>
+          <span class="chip chip-gold" id="countPoints" hidden></span>
+          <span class="chip chip-skip" id="countPart1" hidden></span>
+          <span class="chip chip-skip" id="countPart2" hidden></span>
+        </div>
+        <p class="pass-note mono" id="passNote" hidden>each question = 4 points · pass mark 536 / 800</p>
+      </div>
+      <div class="score-right" id="stampWrap">
+        <div class="stamp" id="stamp"><span id="stampText">PASS</span></div>
+        <p class="score-time mono" id="scoreTime"></p>
+      </div>
+    </div>
+
+    <div class="score-actions">
+      <button class="btn btn-gold" id="retryWrongBtn" type="button"><svg class="ic" aria-hidden="true"><use href="#i-rotate"/></svg><span>Retry incorrect</span></button>
+      <button class="btn btn-primary" id="retakeBtn" type="button"><svg class="ic" aria-hidden="true"><use href="#i-rotate"/></svg><span>Retake module</span></button>
+      <button class="btn btn-ghost" id="exportPdfBtn" type="button"><svg class="ic" aria-hidden="true"><use href="#i-file-down"/></svg><span>Export PDF</span></button>
+      <button class="btn btn-ghost" id="backHomeBtn" type="button"><svg class="ic" aria-hidden="true"><use href="#i-chev-left"/></svg><span>All modules</span></button>
+    </div>
+
+    <div class="review">
+      <div class="review-head">
+        <h2 class="section-title"><svg class="ic" aria-hidden="true"><use href="#i-list"/></svg>Review answers</h2>
+        <div class="review-filters" id="reviewFilters">
+          <button class="chip chip-filter is-active" data-f="all" type="button">All</button>
+          <button class="chip chip-filter" data-f="wrong" type="button">Incorrect</button>
+          <button class="chip chip-filter" data-f="correct" type="button">Correct</button>
+          <button class="chip chip-filter" data-f="skipped" type="button">Skipped</button>
+        </div>
+      </div>
+      <div class="review-list" id="reviewList"></div>
+    </div>
+  </section>
+
+  <!-- ============ HISTORY ============ -->
+  <section class="view view-page" id="viewHistory" hidden>
+    <div class="page-head">
+      <button class="btn btn-ghost btn-sm" id="historyBack" type="button"><svg class="ic" aria-hidden="true"><use href="#i-chev-left"/></svg><span>Home</span></button>
+      <div class="page-head-row">
+        <h2 class="section-title"><svg class="ic" aria-hidden="true"><use href="#i-history"/></svg>Exam history</h2>
+        <button class="btn btn-ghost btn-sm" id="clearHistoryBtn" type="button"><svg class="ic" aria-hidden="true"><use href="#i-trash"/></svg><span>Clear history</span></button>
+      </div>
+      <p class="page-sub mono" id="historySub"></p>
+    </div>
+    <div class="history-list" id="historyList"></div>
+  </section>
+
+  <!-- ============ PERFORMANCE ============ -->
+  <section class="view view-page" id="viewPerformance" hidden>
+    <div class="page-head">
+      <button class="btn btn-ghost btn-sm" id="perfBack" type="button"><svg class="ic" aria-hidden="true"><use href="#i-chev-left"/></svg><span>Home</span></button>
+      <div class="page-head-row">
+        <h2 class="section-title"><svg class="ic" aria-hidden="true"><use href="#i-trend"/></svg>Performance</h2>
+      </div>
+      <p class="page-sub mono" id="perfSub"></p>
+    </div>
+    <div class="perf-tiles" id="perfTiles"></div>
+    <div class="perf-card">
+      <h3 class="perf-card-title"><svg class="ic" aria-hidden="true"><use href="#i-trend"/></svg>Score over time</h3>
+      <div id="perfTrend"></div>
+    </div>
+    <div class="perf-cols">
+      <div class="perf-card">
+        <h3 class="perf-card-title"><svg class="ic" aria-hidden="true"><use href="#i-layers"/></svg>By module</h3>
+        <div id="perfModules"></div>
+      </div>
+      <div class="perf-card">
+        <h3 class="perf-card-title"><svg class="ic" aria-hidden="true"><use href="#i-monitor"/></svg>Exam simulator</h3>
+        <div id="perfSim"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ LEARN FROM MISTAKES ============ -->
+  <section class="view view-page" id="viewMistakes" hidden>
+    <div class="page-head">
+      <button class="btn btn-ghost btn-sm" id="mistakesBack" type="button"><svg class="ic" aria-hidden="true"><use href="#i-chev-left"/></svg><span>Home</span></button>
+      <div class="page-head-row">
+        <h2 class="section-title"><svg class="ic" aria-hidden="true"><use href="#i-bulb"/></svg>Learn from mistakes</h2>
+      </div>
+      <p class="page-sub">Every question you answer incorrectly — in a module, a retry or the full simulator —
+      is collected here automatically. Replay them until you answer each one correctly: miss a question and it
+      comes back at the end of the session; answer it right and it leaves the list for good.</p>
+    </div>
+    <div class="mistake-hero" id="mistakeHero"></div>
+    <div class="mistake-list" id="mistakeList"></div>
+  </section>
+</main>
+
+<!-- ============ PROMETRIC EXAM SIMULATOR (full-screen, official-style interface) ============ -->
+<section class="sim-root" id="viewSimulator" hidden>
+  <div class="sim-app">
+
+    <!-- question-number strip -->
+    <aside class="sim-sidebar" aria-label="Question navigation">
+      <button class="sim-scroll-arrow" id="simScrollUp" type="button" aria-label="Scroll up">▲</button>
+      <div class="sim-sidebar-scroll" id="simSidebar"><!-- question buttons injected --></div>
+      <button class="sim-scroll-arrow" id="simScrollDown" type="button" aria-label="Scroll down">▼</button>
+    </aside>
+
+    <!-- exam window -->
+    <div class="sim-main" id="simMain" data-theme="default">
+      <header class="sim-header">
+        <div class="sim-header-left">
+          <div><strong>Question: <span id="simQNum">1</span></strong></div>
+          <div><strong>Section: <span id="simSectionNum">1</span></strong></div>
+        </div>
+        <div class="sim-header-center">
+          <span class="sim-timer-icon"><svg class="ic" aria-hidden="true"><use href="#i-clock"/></svg></span>
+          <div class="sim-timer-content">
+            <div class="sim-timer-label">Section Time Remaining</div>
+            <div class="sim-timer" id="simTimer">02:00:00</div>
+          </div>
+        </div>
+        <div class="sim-progress-wrap">
+          <div class="sim-progress-section">
+            <div class="sim-progress-bar"><div class="sim-progress-fill" id="simProgressFill"></div></div>
+            <div class="sim-progress-text" id="simProgressText">Progress 0%</div>
+          </div>
+          <button class="sim-finish-btn" id="simFinishBtn" type="button">Finish Section</button>
+        </div>
+      </header>
+
+      <div class="sim-banner">
+        <div>Test: <span id="simTestName">Saudi Prometric Practice Exam</span></div>
+        <div>Candidate: <span id="simCandidate">Prometric Prep</span></div>
+      </div>
+
+      <div class="sim-content" id="simContent">
+        <div class="sim-question-text" id="simQText"></div>
+        <div class="sim-options" id="simOpts"></div>
+      </div>
+
+      <footer class="sim-footer">
+        <div class="sim-footer-left">
+          <button class="sim-footer-icon" id="simExitBtn" type="button" title="Exit exam"><svg class="ic" aria-hidden="true"><use href="#i-exit"/></svg></button>
+          <button class="sim-footer-icon" id="simSettingsBtn" type="button" title="Display Settings"><svg class="ic" aria-hidden="true"><use href="#i-sliders"/></svg></button>
+          <button class="sim-footer-icon" id="simReviewBtn" type="button" title="Section review"><svg class="ic" aria-hidden="true"><use href="#i-list"/></svg></button>
+          <button class="sim-footer-icon" id="simHelpBtn" type="button" title="Interface tutorial"><svg class="ic" aria-hidden="true"><use href="#i-help"/></svg></button>
+        </div>
+        <div class="sim-footer-right">
+          <button class="sim-action-btn sim-flag-btn" id="simFlagBtn" type="button" title="Flag question for review">
+            <svg class="ic" aria-hidden="true"><use href="#i-flag"/></svg><span>Flag</span>
+          </button>
+          <button class="sim-nav-btn" id="simBackBtn" type="button">&lt; Back</button>
+          <button class="sim-nav-btn" id="simNextBtn" type="button">Next &gt;</button>
+        </div>
+      </footer>
+    </div>
+  </div>
+
+  <!-- highlighter tooltip (appears on text selection) -->
+  <div class="sim-tooltip" id="simTooltip" hidden>
+    <button id="simHlBtn" type="button" title="Highlight selection"><svg class="ic" aria-hidden="true"><use href="#i-highlighter"/></svg></button>
+  </div>
+
+  <!-- section review overlay + sidebar -->
+  <div class="sim-overlay" id="simReviewOverlay" hidden></div>
+  <aside class="sim-review" id="simReview" aria-hidden="true" aria-label="Section review">
+    <div class="sim-review-head">
+      <div class="sim-review-title">Section review</div>
+      <div class="sim-review-icons">
+        <button class="sim-review-icon-btn" id="simReviewClose" type="button" title="Close"><svg class="ic" aria-hidden="true"><use href="#i-x"/></svg></button>
+      </div>
+    </div>
+    <div class="sim-review-body">
+      <div class="sim-legend">
+        <span class="sim-legend-item"><span class="sim-legend-chip is-unattempted"></span>Unattempted</span>
+        <span class="sim-legend-item"><span class="sim-legend-chip is-attempted"></span>Attempted</span>
+        <span class="sim-legend-item"><span class="sim-legend-chip is-flagged"></span>Flagged</span>
+      </div>
+      <div class="sim-filters">
+        <label class="sim-filter"><input type="checkbox" id="simFUnatt"><span>Unattempted</span></label>
+        <label class="sim-filter"><input type="checkbox" id="simFAtt"><span>Attempted</span></label>
+        <label class="sim-filter"><input type="checkbox" id="simFFlag"><span>Flagged</span></label>
+        <button class="sim-clear-btn" id="simFClear" type="button">Clear</button>
+      </div>
+      <div class="sim-qgrid" id="simQGrid"></div>
+    </div>
+  </aside>
+
+  <!-- display settings sidebar -->
+  <aside class="sim-settings" id="simSettings" aria-hidden="true" aria-label="Display settings">
+    <div class="sim-settings-head">
+      Display Settings
+      <button class="sim-review-icon-btn" id="simSettingsClose" type="button" title="Close"><svg class="ic" aria-hidden="true"><use href="#i-x"/></svg></button>
+    </div>
+    <div class="sim-theme-preview" id="simThemePreview" data-theme="default" title="Restore default">Black text with gray background</div>
+    <div class="sim-theme-grid">
+      <div class="sim-theme-option theme-blue" data-theme="blue" role="button" tabindex="0">Blue text with<br>gray background</div>
+      <div class="sim-theme-option theme-dark-gray" data-theme="dark-gray" role="button" tabindex="0">Dark gray text with<br>gray background</div>
+      <div class="sim-theme-option theme-yellow" data-theme="yellow" role="button" tabindex="0">Black text with<br>yellow background</div>
+      <div class="sim-theme-option theme-light-gray" data-theme="light-gray" role="button" tabindex="0">White text with<br>gray background</div>
+      <div class="sim-theme-option theme-pink" data-theme="pink" role="button" tabindex="0">Black text with<br>pink background</div>
+      <div class="sim-theme-option theme-black" data-theme="black" role="button" tabindex="0">White text with<br>black background</div>
+    </div>
+  </aside>
+
+  <div class="sim-toast mono" id="simToast" hidden></div>
+
+  <!-- break between the two exam parts -->
+  <div class="sim-break" id="simBreak" hidden>
+    <div class="sim-break-card">
+      <span class="sim-break-icon"><svg class="ic" aria-hidden="true"><use href="#i-coffee"/></svg></span>
+      <h3>Break</h3>
+      <p class="sim-break-msg" id="simBreakMsg">You have completed Part 1 of the exam.</p>
+      <p class="sim-break-stats mono" id="simBreakStats"></p>
+      <p class="sim-break-note">The break is untimed — the Part&nbsp;2 timer starts only when you continue.
+      Each question is worth <strong>4 points</strong>; you need <strong>536 / 800 points</strong> across both
+      parts to pass.</p>
+      <button class="sim-break-btn" id="simBreakContinue" type="button">Begin Part 2</button>
+    </div>
+  </div>
+</section>
+
+<!-- setup modal: choose questions, time, and options -->
+<div class="modal-backdrop" id="setupModal" hidden>
+  <div class="modal modal-setup" role="dialog" aria-modal="true" aria-labelledby="setupTitle">
+    <h3 id="setupTitle">Module 1</h3>
+    <p class="setup-range mono" id="setupRange"></p>
+
+    <div class="setup-group">
+      <span class="setup-label">Number of questions</span>
+      <div class="seg-row" id="setupCount"></div>
+    </div>
+
+    <div class="setup-group">
+      <span class="setup-label">Time limit</span>
+      <div class="seg-row" id="setupTime"></div>
+      <div class="custom-time" id="customTimeRow" hidden>
+        <input type="number" id="customTimeMin" min="1" max="600" step="1" inputmode="numeric" placeholder="45">
+        <span class="custom-time-unit mono">minutes</span>
+        <span class="custom-time-err" id="customTimeErr" hidden>enter 1–600</span>
+      </div>
+    </div>
+
+    <div class="setup-group">
+      <span class="setup-label">Mode</span>
+      <div class="seg-row" id="setupModeRow">
+        <label class="seg"><input type="radio" name="setupMode" value="exam" checked> Exam</label>
+        <label class="seg"><input type="radio" name="setupMode" value="practice"> Practice</label>
+      </div>
+    </div>
+
+    <div class="setup-group setup-checks">
+      <label class="check"><input type="checkbox" id="optShuffleQ" checked> Shuffle question order <em class="setup-optional">(the questions themselves are always drawn at random)</em></label>
+      <label class="check"><input type="checkbox" id="optShuffleOpts" checked> Randomize answer positions</label>
+    </div>
+
+    <div class="modal-actions">
+      <button class="btn btn-ghost" id="setupCancel" type="button">Cancel</button>
+      <button class="btn btn-gold" id="setupStart" type="button"><span>Start</span><svg class="ic" aria-hidden="true"><use href="#i-arrow-right"/></svg></button>
+    </div>
+  </div>
+</div>
+
+<!-- confirm modal -->
+<div class="modal-backdrop" id="modal" hidden>
+  <div class="modal" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+    <h3 id="modalTitle">Finish the module?</h3>
+    <p id="modalBody"></p>
+    <div class="modal-actions">
+      <button class="btn btn-ghost" id="modalCancel" type="button">Keep going</button>
+      <button class="btn btn-gold" id="modalOk" type="button"><svg class="ic" aria-hidden="true"><use href="#i-flag"/></svg><span>Finish &amp; see results</span></button>
+    </div>
+  </div>
+</div>
+
+<!-- import questions modal -->
+<div class="modal-backdrop" id="importModal" hidden>
+  <div class="modal modal-import" role="dialog" aria-modal="true" aria-labelledby="importTitle">
+    <h3 id="importTitle"><svg class="ic" aria-hidden="true"><use href="#i-upload"/></svg>Import questions</h3>
+    <p class="setup-range mono">txt · Word (.docx) · PDF — one module per import</p>
+
+    <div class="import-file-zone" id="importDrop" tabindex="0" role="button" aria-label="Choose a question file">
+      <svg class="ic" aria-hidden="true"><use href="#i-upload"/></svg>
+      <span class="import-drop-main" id="importDropText"><strong>Choose a file</strong> or drag it here</span>
+      <span class="import-drop-sub mono">.txt · .docx · .pdf — parsed on your device, nothing is uploaded</span>
+      <input type="file" id="importFile" accept=".txt,.docx,.pdf,text/plain,.doc" hidden>
+    </div>
+
+    <div class="setup-group">
+      <span class="setup-label">Or paste questions as text</span>
+      <textarea id="importPaste" class="import-paste" rows="3" placeholder="1. Which drug ...&#10;A) ...&#10;B) ...&#10;Answer: A"></textarea>
+      <button class="btn btn-ghost btn-sm" id="importParsePaste" type="button"><svg class="ic" aria-hidden="true"><use href="#i-list"/></svg><span>Parse pasted text</span></button>
+    </div>
+
+    <div class="import-expected mono" id="importExpected">
+      <strong>Expected format</strong> — numbered question, lettered options, answer line:<br>
+      <span class="import-expected-sample">1. Which vitamin deficiency causes scurvy?<br>
+      A) Iron&nbsp;&nbsp;&nbsp;B) Vitamin C&nbsp;&nbsp;&nbsp;C) Calcium&nbsp;&nbsp;&nbsp;D) Zinc<br>
+      Answer: B</span>
+      — “Answer: B”, “Correct answer: B”, “الإجابة: ب” and “(correct)” markers are all recognised.
+      Questions without an answer default to A — you can fix every answer in the preview before saving.
+    </div>
+
+    <div class="import-summary" id="importSummary" hidden></div>
+    <div class="import-preview" id="importPreview" hidden></div>
+
+    <div class="setup-group">
+      <span class="setup-label">Module name</span>
+      <input type="text" id="importName" class="setup-input" maxlength="40" placeholder="e.g. Cardiology set 1" autocomplete="off">
+    </div>
+
+    <div class="import-manage" id="importManage" hidden>
+      <span class="setup-label">Imported modules</span>
+      <div id="importManageList"></div>
+    </div>
+
+    <div class="modal-actions">
+      <button class="btn btn-ghost" id="importClose" type="button">Close</button>
+      <button class="btn btn-gold" id="importSave" type="button" disabled><span>Add as new module</span><svg class="ic" aria-hidden="true"><use href="#i-arrow-right"/></svg></button>
+    </div>
+  </div>
+</div>
+
+<!-- simulator setup modal -->
+<div class="modal-backdrop" id="simSetupModal" hidden>
+  <div class="modal modal-setup" role="dialog" aria-modal="true" aria-labelledby="simSetupTitle">
+    <h3 id="simSetupTitle">Prometric Exam Simulator</h3>
+    <p class="setup-range mono">official SCFHS-style interface · timed section</p>
+
+    <div class="setup-group">
+      <span class="setup-label">Exam format</span>
+      <p class="setup-format mono">Part 1 · break · Part 2 — 100 questions each<br>
+      drawn at random from all 7 modules (627 questions) —<br>
+      a new mix every time you open the app<br>
+      4 points per question · 800 total · pass 536</p>
+    </div>
+
+    <div class="setup-group">
+      <span class="setup-label">Time per part</span>
+      <div class="seg-row" id="simSetupTime"></div>
+      <div class="custom-time" id="simCustomTimeRow" hidden>
+        <input type="number" id="simCustomTimeMin" min="1" max="600" step="1" inputmode="numeric" placeholder="90">
+        <span class="custom-time-unit mono">minutes</span>
+        <span class="custom-time-err" id="simCustomTimeErr" hidden>enter 1–600</span>
+      </div>
+    </div>
+
+    <div class="setup-group">
+      <span class="setup-label">Candidate name <em class="setup-optional">(optional — shown on the exam banner)</em></span>
+      <input type="text" id="simCandInput" class="setup-input" maxlength="30" placeholder="e.g. Ahmed" autocomplete="off">
+    </div>
+
+    <div class="setup-group setup-checks">
+      <label class="check"><input type="checkbox" id="simShuffleQ" checked> Shuffle question order <em class="setup-optional">(the questions themselves are always drawn at random)</em></label>
+      <label class="check"><input type="checkbox" id="simShuffleOpts" checked> Randomize answer positions</label>
+    </div>
+
+    <div class="modal-actions">
+      <button class="btn btn-ghost" id="simSetupCancel" type="button">Cancel</button>
+      <button class="btn btn-gold" id="simSetupStart" type="button"><span>Start Exam</span><svg class="ic" aria-hidden="true"><use href="#i-arrow-right"/></svg></button>
+    </div>
+  </div>
+</div>
+
+<!-- simulator interface tutorial (help) -->
+<div class="modal-backdrop" id="simHelpModal" hidden>
+  <div class="modal" role="dialog" aria-modal="true" aria-labelledby="simHelpTitle">
+    <h3 id="simHelpTitle">Exam interface tutorial</h3>
+    <ul class="sim-help-list">
+      <li><strong>Exam structure</strong> — the exam has <strong>two parts of 100 questions</strong> each, with an untimed break between them.</li>
+      <li><strong>Random bank</strong> — every attempt draws its 200 questions at random from the 627-question bank across all 7 modules, so each time you open the app the exam is different.</li>
+      <li><strong>Scoring</strong> — every question is worth <strong>4 points</strong> (800 in total); you need <strong>536 points</strong> across both parts to pass.</li>
+      <li><strong>Question &amp; choices</strong> — the question and its answer choices appear on screen; select an answer with the mouse.</li>
+      <li><strong>Change answers</strong> — select a different choice at any time before the part ends.</li>
+      <li><strong>Navigate</strong> — use <strong>&lt; Back</strong> and <strong>Next &gt;</strong>, the numbered strip on the left, or the arrow keys.</li>
+      <li><strong>Flag</strong> — press <strong>Flag</strong> to mark a question for review; flagged questions turn red in the review screen.</li>
+      <li><strong>Highlight</strong> — select any text in the question, then click the highlighter that appears.</li>
+      <li><strong>Strikethrough</strong> — right-click an answer choice to strike it out (right-click again to undo).</li>
+      <li><strong>Section review</strong> — the menu icon opens the review screen for the current part: jump to any question and filter by unattempted, attempted, or flagged.</li>
+      <li><strong>Timer</strong> — “Section Time Remaining” counts down per part; the part finishes automatically at 00:00:00.</li>
+      <li><strong>Break</strong> — after Part 1 you can rest as long as you need; Part 2 starts when you press “Begin Part 2”.</li>
+      <li><strong>Display settings</strong> — the settings icon offers alternate color themes, in line with the Prometric tutorial.</li>
+    </ul>
+    <div class="modal-actions">
+      <button class="btn btn-primary" id="simHelpClose" type="button">Got it</button>
+    </div>
+  </div>
+</div>
+
+<footer class="foot mono">
+  <span class="foot-line">Compiled from 7 source quizzes · 627 unique questions · created by Dr Ahmed Ali</span>
+  <span class="foot-line foot-faculty"><svg class="ic" aria-hidden="true"><use href="#i-cap"/></svg>Faculty of Pharmacy · Al-Azhar University in Cairo · Graduating Class 21</span>
+</footer>
+
+<script src="questions.js?v=5"></script>
+<script src="app.js?v=8"></script>
+</body>
+</html>

@@ -1,0 +1,28 @@
+# Android build toolchain (JDK + build-tools, downloaded separately — 563 MB)
+apkbuild/tools/
+# downloaded toolchain archives & extracted copies
+apkbuild/_dl/
+
+# build intermediates & outputs (final APK lives at repo root)
+apkbuild/build/*
+!apkbuild/build/debug.keystore
+apkbuild/gen/
+apkbuild/classes/
+apkbuild/dexout/
+
+# PyInstaller intermediates (final EXE lives at repo root)
+desktop/build/
+desktop/dist/
+
+# python cache
+__pycache__/
+*.pyc
+
+# files extracted from the packaged EXE for inspection (source of truth is app/)
+_exe_app_js.js
+_exe_index.html
+_exe_questions.js
+
+# browser test screenshots
+_test_shots/
+apkbuild/PrometricPrep.apk
